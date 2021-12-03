@@ -1,0 +1,253 @@
+"iid","pid","pillar","spid","subpillar","abbr","country","value","notes","pkey","color"
+5,2,"Digital Transition",5,"SMEs Digitalisation","EU27_2020","EU",45.84,NULL,"EU27_2020-5",2
+6,2,"Digital Transition",6,"E-commerce","EU27_2020","EU",41.88,NULL,"EU27_2020-6",2
+7,2,"Digital Transition",7,"Digital Skills","EU27_2020","EU",42.25,NULL,"EU27_2020-7",2
+8,3,"Green Transition",8,"Recycling and Reuse","EU27_2020","EU",55.21,NULL,"EU27_2020-8",2
+9,3,"Green Transition",9,"Greenhouse Gas Emissions","EU27_2020","EU",57.30,NULL,"EU27_2020-9",2
+10,3,"Green Transition",10,"Other Actions","EU27_2020","EU",48.60,NULL,"EU27_2020-10",2
+11,4,"SME Competitiveness",11,"High-Growth Enterprises","EU27_2020","EU",68.20,NULL,"EU27_2020-11",2
+12,4,"SME Competitiveness",12,"SMEs Trade","EU27_2020","EU",38.57,NULL,"EU27_2020-12",1
+13,4,"SME Competitiveness",13,"Labour Productivity","EU27_2020","EU",39.98,NULL,"EU27_2020-13",2
+18,2,"Digital Transition",5,"SMEs Digitalisation","BE","Belgium",68.18,NULL,"BE-5",3
+19,2,"Digital Transition",6,"E-commerce","BE","Belgium",53.96,NULL,"BE-6",3
+20,2,"Digital Transition",7,"Digital Skills","BE","Belgium",79.97,NULL,"BE-7",3
+21,3,"Green Transition",8,"Recycling and Reuse","BE","Belgium",46.55,NULL,"BE-8",1
+22,3,"Green Transition",9,"Greenhouse Gas Emissions","BE","Belgium",59.18,NULL,"BE-9",2
+23,3,"Green Transition",10,"Other Actions","BE","Belgium",43.89,NULL,"BE-10",2
+24,4,"SME Competitiveness",11,"High-Growth Enterprises","BE","Belgium",40.04,NULL,"BE-11",1
+25,4,"SME Competitiveness",12,"SMEs Trade","BE","Belgium",54.90,NULL,"BE-12",3
+26,4,"SME Competitiveness",13,"Labour Productivity","BE","Belgium",66.33,NULL,"BE-13",3
+31,2,"Digital Transition",5,"SMEs Digitalisation","BG","Bulgaria",20.47,NULL,"BG-5",1
+32,2,"Digital Transition",6,"E-commerce","BG","Bulgaria",10.00,NULL,"BG-6",1
+33,2,"Digital Transition",7,"Digital Skills","BG","Bulgaria",24.08,NULL,"BG-7",1
+34,3,"Green Transition",8,"Recycling and Reuse","BG","Bulgaria",41.81,NULL,"BG-8",1
+35,3,"Green Transition",9,"Greenhouse Gas Emissions","BG","Bulgaria",60.91,NULL,"BG-9",2
+36,3,"Green Transition",10,"Other Actions","BG","Bulgaria",46.43,NULL,"BG-10",2
+37,4,"SME Competitiveness",11,"High-Growth Enterprises","BG","Bulgaria",64.18,NULL,"BG-11",2
+38,4,"SME Competitiveness",12,"SMEs Trade","BG","Bulgaria",61.14,NULL,"BG-12",3
+39,4,"SME Competitiveness",13,"Labour Productivity","BG","Bulgaria",10.00,NULL,"BG-13",1
+44,2,"Digital Transition",5,"SMEs Digitalisation","CZ","Czechia",38.20,NULL,"CZ-5",1
+45,2,"Digital Transition",6,"E-commerce","CZ","Czechia",69.79,NULL,"CZ-6",3
+46,2,"Digital Transition",7,"Digital Skills","CZ","Czechia",33.88,NULL,"CZ-7",1
+47,3,"Green Transition",8,"Recycling and Reuse","CZ","Czechia",45.12,NULL,"CZ-8",1
+48,3,"Green Transition",9,"Greenhouse Gas Emissions","CZ","Czechia",31.76,NULL,"CZ-9",1
+49,3,"Green Transition",10,"Other Actions","CZ","Czechia",17.73,NULL,"CZ-10",1
+50,4,"SME Competitiveness",11,"High-Growth Enterprises","CZ","Czechia",66.82,NULL,"CZ-11",2
+51,4,"SME Competitiveness",12,"SMEs Trade","CZ","Czechia",38.40,NULL,"CZ-12",1
+52,4,"SME Competitiveness",13,"Labour Productivity","CZ","Czechia",23.01,NULL,"CZ-13",2
+57,2,"Digital Transition",5,"SMEs Digitalisation","DK","Denmark",74.18,NULL,"DK-5",3
+58,2,"Digital Transition",6,"E-commerce","DK","Denmark",86.88,NULL,"DK-6",3
+59,2,"Digital Transition",7,"Digital Skills","DK","Denmark",85.50,NULL,"DK-7",3
+60,3,"Green Transition",8,"Recycling and Reuse","DK","Denmark",60.81,NULL,"DK-8",3
+61,3,"Green Transition",9,"Greenhouse Gas Emissions","DK","Denmark",37.29,NULL,"DK-9",1
+62,3,"Green Transition",10,"Other Actions","DK","Denmark",31.41,NULL,"DK-10",1
+63,4,"SME Competitiveness",11,"High-Growth Enterprises","DK","Denmark",57.89,NULL,"DK-11",1
+64,4,"SME Competitiveness",12,"SMEs Trade","DK","Denmark",53.57,NULL,"DK-12",2
+65,4,"SME Competitiveness",13,"Labour Productivity","DK","Denmark",100.00,NULL,"DK-13",3
+70,2,"Digital Transition",5,"SMEs Digitalisation","DE","Germany",43.54,NULL,"DE-5",2
+71,2,"Digital Transition",6,"E-commerce","DE","Germany",38.33,NULL,"DE-6",2
+72,2,"Digital Transition",7,"Digital Skills","DE","Germany",49.83,NULL,"DE-7",2
+73,3,"Green Transition",8,"Recycling and Reuse","DE","Germany",63.85,NULL,"DE-8",3
+74,3,"Green Transition",9,"Greenhouse Gas Emissions","DE","Germany",37.67,NULL,"DE-9",1
+75,3,"Green Transition",10,"Other Actions","DE","Germany",35.58,NULL,"DE-10",1
+76,4,"SME Competitiveness",11,"High-Growth Enterprises","DE","Germany",61.22,NULL,"DE-11",1
+77,4,"SME Competitiveness",12,"SMEs Trade","DE","Germany",38.94,NULL,"DE-12",1
+78,4,"SME Competitiveness",13,"Labour Productivity","DE","Germany",47.29,NULL,"DE-13",3
+83,2,"Digital Transition",5,"SMEs Digitalisation","EE","Estonia",37.58,NULL,"EE-5",1
+84,2,"Digital Transition",6,"E-commerce","EE","Estonia",40.21,NULL,"EE-6",2
+85,2,"Digital Transition",7,"Digital Skills","EE","Estonia",50.67,NULL,"EE-7",2
+86,3,"Green Transition",8,"Recycling and Reuse","EE","Estonia",26.96,NULL,"EE-8",1
+87,3,"Green Transition",9,"Greenhouse Gas Emissions","EE","Estonia",42.59,NULL,"EE-9",1
+88,3,"Green Transition",10,"Other Actions","EE","Estonia",32.55,NULL,"EE-10",1
+89,4,"SME Competitiveness",11,"High-Growth Enterprises","EE","Estonia",59.84,NULL,"EE-11",1
+90,4,"SME Competitiveness",12,"SMEs Trade","EE","Estonia",70.00,NULL,"EE-12",3
+91,4,"SME Competitiveness",13,"Labour Productivity","EE","Estonia",28.63,NULL,"EE-13",2
+96,2,"Digital Transition",5,"SMEs Digitalisation","IE","Ireland",75.95,NULL,"IE-5",3
+97,2,"Digital Transition",6,"E-commerce","IE","Ireland",100.00,NULL,"IE-6",3
+98,2,"Digital Transition",7,"Digital Skills","IE","Ireland",80.57,NULL,"IE-7",3
+99,3,"Green Transition",8,"Recycling and Reuse","IE","Ireland",71.48,NULL,"IE-8",3
+100,3,"Green Transition",9,"Greenhouse Gas Emissions","IE","Ireland",78.04,NULL,"IE-9",3
+101,3,"Green Transition",10,"Other Actions","IE","Ireland",77.41,NULL,"IE-10",3
+102,4,"SME Competitiveness",11,"High-Growth Enterprises","IE","Ireland",92.77,NULL,"IE-11",3
+103,4,"SME Competitiveness",12,"SMEs Trade","IE","Ireland",22.77,NULL,"IE-12",1
+104,4,"SME Competitiveness",13,"Labour Productivity","IE","Ireland",81.15,NULL,"IE-13",3
+109,2,"Digital Transition",5,"SMEs Digitalisation","EL","Greece",38.72,NULL,"EL-5",2
+110,2,"Digital Transition",6,"E-commerce","EL","Greece",11.88,NULL,"EL-6",1
+111,2,"Digital Transition",7,"Digital Skills","EL","Greece",27.93,NULL,"EL-7",1
+112,3,"Green Transition",8,"Recycling and Reuse","EL","Greece",47.65,NULL,"EL-8",2
+113,3,"Green Transition",9,"Greenhouse Gas Emissions","EL","Greece",58.30,NULL,"EL-9",2
+114,3,"Green Transition",10,"Other Actions","EL","Greece",49.02,NULL,"EL-10",2
+115,4,"SME Competitiveness",11,"High-Growth Enterprises","EL","Greece",100.00,NULL,"EL-11",3
+116,4,"SME Competitiveness",12,"SMEs Trade","EL","Greece",36.39,NULL,"EL-12",1
+117,4,"SME Competitiveness",13,"Labour Productivity","EL","Greece",11.19,NULL,"EL-13",1
+122,2,"Digital Transition",5,"SMEs Digitalisation","ES","Spain",45.32,NULL,"ES-5",2
+123,2,"Digital Transition",6,"E-commerce","ES","Spain",49.79,NULL,"ES-6",2
+124,2,"Digital Transition",7,"Digital Skills","ES","Spain",34.91,NULL,"ES-7",1
+125,3,"Green Transition",8,"Recycling and Reuse","ES","Spain",79.11,NULL,"ES-8",3
+126,3,"Green Transition",9,"Greenhouse Gas Emissions","ES","Spain",67.60,NULL,"ES-9",3
+127,3,"Green Transition",10,"Other Actions","ES","Spain",71.39,NULL,"ES-10",3
+128,4,"SME Competitiveness",11,"High-Growth Enterprises","ES","Spain",94.72,NULL,"ES-11",3
+129,4,"SME Competitiveness",12,"SMEs Trade","ES","Spain",40.03,NULL,"ES-12",2
+130,4,"SME Competitiveness",13,"Labour Productivity","ES","Spain",33.32,NULL,"ES-13",2
+135,2,"Digital Transition",5,"SMEs Digitalisation","FR","France",46.42,NULL,"FR-5",2
+136,2,"Digital Transition",6,"E-commerce","FR","France",35.21,NULL,"FR-6",2
+137,2,"Digital Transition",7,"Digital Skills","FR","France",36.95,NULL,"FR-7",2
+138,3,"Green Transition",8,"Recycling and Reuse","FR","France",59.11,NULL,"FR-8",2
+139,3,"Green Transition",9,"Greenhouse Gas Emissions","FR","France",49.65,NULL,"FR-9",1
+140,3,"Green Transition",10,"Other Actions","FR","France",41.20,NULL,"FR-10",1
+141,4,"SME Competitiveness",11,"High-Growth Enterprises","FR","France",66.63,NULL,"FR-11",2
+142,4,"SME Competitiveness",12,"SMEs Trade","FR","France",21.02,NULL,"FR-12",1
+143,4,"SME Competitiveness",13,"Labour Productivity","FR","France",53.03,NULL,"FR-13",3
+148,2,"Digital Transition",5,"SMEs Digitalisation","HR","Croatia",41.09,NULL,"HR-5",2
+149,2,"Digital Transition",6,"E-commerce","HR","Croatia",62.29,NULL,"HR-6",3
+150,2,"Digital Transition",7,"Digital Skills","HR","Croatia",47.78,NULL,"HR-7",2
+151,3,"Green Transition",8,"Recycling and Reuse","HR","Croatia",49.37,NULL,"HR-8",2
+152,3,"Green Transition",9,"Greenhouse Gas Emissions","HR","Croatia",66.16,NULL,"HR-9",3
+153,3,"Green Transition",10,"Other Actions","HR","Croatia",57.12,NULL,"HR-10",3
+154,4,"SME Competitiveness",11,"High-Growth Enterprises","HR","Croatia",69.52,NULL,"HR-11",2
+155,4,"SME Competitiveness",12,"SMEs Trade","HR","Croatia",47.52,NULL,"HR-12",2
+156,4,"SME Competitiveness",13,"Labour Productivity","HR","Croatia",19.52,NULL,"HR-13",2
+161,2,"Digital Transition",5,"SMEs Digitalisation","IT","Italy",50.92,NULL,"IT-5",3
+162,2,"Digital Transition",6,"E-commerce","IT","Italy",29.58,NULL,"IT-6",1
+163,2,"Digital Transition",7,"Digital Skills","IT","Italy",10.00,NULL,"IT-7",1
+164,3,"Green Transition",8,"Recycling and Reuse","IT","Italy",28.00,NULL,"IT-8",1
+165,3,"Green Transition",9,"Greenhouse Gas Emissions","IT","Italy",67.03,NULL,"IT-9",3
+166,3,"Green Transition",10,"Other Actions","IT","Italy",43.58,NULL,"IT-10",2
+167,4,"SME Competitiveness",11,"High-Growth Enterprises","IT","Italy",64.68,NULL,"IT-11",2
+168,4,"SME Competitiveness",12,"SMEs Trade","IT","Italy",47.97,NULL,"IT-12",2
+169,4,"SME Competitiveness",13,"Labour Productivity","IT","Italy",38.71,NULL,"IT-13",2
+174,2,"Digital Transition",5,"SMEs Digitalisation","CY","Cyprus",43.56,NULL,"CY-5",2
+175,2,"Digital Transition",6,"E-commerce","CY","Cyprus",22.08,NULL,"CY-6",1
+176,2,"Digital Transition",7,"Digital Skills","CY","Cyprus",50.97,NULL,"CY-7",2
+177,3,"Green Transition",8,"Recycling and Reuse","CY","Cyprus",40.66,NULL,"CY-8",1
+178,3,"Green Transition",9,"Greenhouse Gas Emissions","CY","Cyprus",10.00,NULL,"CY-9",1
+179,3,"Green Transition",10,"Other Actions","CY","Cyprus",34.90,NULL,"CY-10",1
+180,4,"SME Competitiveness",11,"High-Growth Enterprises","CY","Cyprus",22.95,NULL,"CY-11",1
+181,4,"SME Competitiveness",12,"SMEs Trade","CY","Cyprus",58.82,NULL,"CY-12",3
+182,4,"SME Competitiveness",13,"Labour Productivity","CY","Cyprus",25.41,NULL,"CY-13",2
+187,2,"Digital Transition",5,"SMEs Digitalisation","LV","Latvia",34.10,NULL,"LV-5",1
+188,2,"Digital Transition",6,"E-commerce","LV","Latvia",24.17,NULL,"LV-6",1
+189,2,"Digital Transition",7,"Digital Skills","LV","Latvia",28.53,NULL,"LV-7",1
+190,3,"Green Transition",8,"Recycling and Reuse","LV","Latvia",57.04,NULL,"LV-8",2
+191,3,"Green Transition",9,"Greenhouse Gas Emissions","LV","Latvia",39.38,NULL,"LV-9",1
+192,3,"Green Transition",10,"Other Actions","LV","Latvia",43.96,NULL,"LV-10",2
+193,4,"SME Competitiveness",11,"High-Growth Enterprises","LV","Latvia",63.92,NULL,"LV-11",1
+194,4,"SME Competitiveness",12,"SMEs Trade","LV","Latvia",78.06,NULL,"LV-12",3
+195,4,"SME Competitiveness",13,"Labour Productivity","LV","Latvia",15.37,NULL,"LV-13",1
+200,2,"Digital Transition",5,"SMEs Digitalisation","LT","Lithuania",48.83,NULL,"LT-5",2
+201,2,"Digital Transition",6,"E-commerce","LT","Lithuania",62.50,NULL,"LT-6",3
+202,2,"Digital Transition",7,"Digital Skills","LT","Lithuania",43.93,NULL,"LT-7",2
+203,3,"Green Transition",8,"Recycling and Reuse","LT","Lithuania",35.26,NULL,"LT-8",1
+204,3,"Green Transition",9,"Greenhouse Gas Emissions","LT","Lithuania",64.34,NULL,"LT-9",3
+205,3,"Green Transition",10,"Other Actions","LT","Lithuania",38.46,NULL,"LT-10",1
+206,4,"SME Competitiveness",11,"High-Growth Enterprises","LT","Lithuania",57.77,NULL,"LT-11",1
+207,4,"SME Competitiveness",12,"SMEs Trade","LT","Lithuania",65.48,NULL,"LT-12",3
+208,4,"SME Competitiveness",13,"Labour Productivity","LT","Lithuania",17.03,NULL,"LT-13",1
+213,2,"Digital Transition",5,"SMEs Digitalisation","LU","Luxembourg",50.84,NULL,"LU-5",3
+214,2,"Digital Transition",6,"E-commerce","LU","Luxembourg",16.67,NULL,"LU-6",1
+215,2,"Digital Transition",7,"Digital Skills","LU","Luxembourg",50.61,NULL,"LU-7",2
+216,3,"Green Transition",8,"Recycling and Reuse","LU","Luxembourg",68.98,NULL,"LU-8",3
+217,3,"Green Transition",9,"Greenhouse Gas Emissions","LU","Luxembourg",72.61,NULL,"LU-9",3
+218,3,"Green Transition",10,"Other Actions","LU","Luxembourg",82.35,NULL,"LU-10",3
+219,4,"SME Competitiveness",11,"High-Growth Enterprises","LU","Luxembourg",69.14,NULL,"LU-11",2
+220,4,"SME Competitiveness",12,"SMEs Trade","LU","Luxembourg",47.14,NULL,"LU-12",2
+221,4,"SME Competitiveness",13,"Labour Productivity","LU","Luxembourg",89.94,NULL,"LU-13",3
+226,2,"Digital Transition",5,"SMEs Digitalisation","HU","Hungary",19.74,NULL,"HU-5",1
+227,2,"Digital Transition",6,"E-commerce","HU","Hungary",29.58,NULL,"HU-6",1
+228,2,"Digital Transition",7,"Digital Skills","HU","Hungary",66.07,NULL,"HU-7",3
+229,3,"Green Transition",8,"Recycling and Reuse","HU","Hungary",25.43,NULL,"HU-8",1
+230,3,"Green Transition",9,"Greenhouse Gas Emissions","HU","Hungary",45.61,NULL,"HU-9",1
+231,3,"Green Transition",10,"Other Actions","HU","Hungary",33.59,NULL,"HU-10",1
+232,4,"SME Competitiveness",11,"High-Growth Enterprises","HU","Hungary",72.53,NULL,"HU-11",2
+233,4,"SME Competitiveness",12,"SMEs Trade","HU","Hungary",48.54,NULL,"HU-12",2
+234,4,"SME Competitiveness",13,"Labour Productivity","HU","Hungary",18.35,NULL,"HU-13",1
+239,2,"Digital Transition",5,"SMEs Digitalisation","MT","Malta",80.62,NULL,"MT-5",3
+240,2,"Digital Transition",6,"E-commerce","MT","Malta",42.71,NULL,"MT-6",2
+241,2,"Digital Transition",7,"Digital Skills","MT","Malta",79.97,NULL,"MT-7",3
+242,3,"Green Transition",8,"Recycling and Reuse","MT","Malta",55.11,NULL,"MT-8",2
+243,3,"Green Transition",9,"Greenhouse Gas Emissions","MT","Malta",54.48,NULL,"MT-9",2
+244,3,"Green Transition",10,"Other Actions","MT","Malta",55.29,NULL,"MT-10",3
+245,4,"SME Competitiveness",11,"High-Growth Enterprises","MT","Malta",84.92,NULL,"MT-11",3
+246,4,"SME Competitiveness",12,"SMEs Trade","MT","Malta",53.73,NULL,"MT-12",2
+247,4,"SME Competitiveness",13,"Labour Productivity","MT","Malta",40.96,NULL,"MT-13",2
+252,2,"Digital Transition",5,"SMEs Digitalisation","NL","Netherlands",64.98,NULL,"NL-5",3
+253,2,"Digital Transition",6,"E-commerce","NL","Netherlands",52.08,NULL,"NL-6",3
+254,2,"Digital Transition",7,"Digital Skills","NL","Netherlands",62.04,NULL,"NL-7",3
+255,3,"Green Transition",8,"Recycling and Reuse","NL","Netherlands",52.98,NULL,"NL-8",2
+256,3,"Green Transition",9,"Greenhouse Gas Emissions","NL","Netherlands",54.05,NULL,"NL-9",2
+257,3,"Green Transition",10,"Other Actions","NL","Netherlands",48.22,NULL,"NL-10",2
+258,4,"SME Competitiveness",11,"High-Growth Enterprises","NL","Netherlands",95.98,NULL,"NL-11",3
+259,4,"SME Competitiveness",12,"SMEs Trade","NL","Netherlands",67.96,NULL,"NL-12",3
+260,4,"SME Competitiveness",13,"Labour Productivity","NL","Netherlands",62.11,NULL,"NL-13",3
+265,2,"Digital Transition",5,"SMEs Digitalisation","AT","Austria",52.32,NULL,"AT-5",3
+266,2,"Digital Transition",6,"E-commerce","AT","Austria",51.46,NULL,"AT-6",3
+267,2,"Digital Transition",7,"Digital Skills","AT","Austria",51.45,NULL,"AT-7",3
+268,3,"Green Transition",8,"Recycling and Reuse","AT","Austria",62.96,NULL,"AT-8",3
+269,3,"Green Transition",9,"Greenhouse Gas Emissions","AT","Austria",40.91,NULL,"AT-9",1
+270,3,"Green Transition",10,"Other Actions","AT","Austria",44.24,NULL,"AT-10",2
+271,4,"SME Competitiveness",11,"High-Growth Enterprises","AT","Austria",46.14,NULL,"AT-11",1
+272,4,"SME Competitiveness",12,"SMEs Trade","AT","Austria",63.15,NULL,"AT-12",3
+273,4,"SME Competitiveness",13,"Labour Productivity","AT","Austria",44.59,NULL,"AT-13",2
+278,2,"Digital Transition",5,"SMEs Digitalisation","PL","Poland",28.76,NULL,"PL-5",1
+279,2,"Digital Transition",6,"E-commerce","PL","Poland",26.67,NULL,"PL-6",1
+280,2,"Digital Transition",7,"Digital Skills","PL","Poland",42.19,NULL,"PL-7",2
+281,3,"Green Transition",8,"Recycling and Reuse","PL","Poland",47.16,NULL,"PL-8",2
+282,3,"Green Transition",9,"Greenhouse Gas Emissions","PL","Poland",62.91,NULL,"PL-9",2
+283,3,"Green Transition",10,"Other Actions","PL","Poland",51.35,NULL,"PL-10",3
+284,4,"SME Competitiveness",11,"High-Growth Enterprises","PL","Poland",72.35,NULL,"PL-11",2
+285,4,"SME Competitiveness",12,"SMEs Trade","PL","Poland",39.76,NULL,"PL-12",1
+286,4,"SME Competitiveness",13,"Labour Productivity","PL","Poland",16.95,NULL,"PL-13",1
+291,2,"Digital Transition",5,"SMEs Digitalisation","PT","Portugal",40.86,NULL,"PT-5",2
+292,2,"Digital Transition",6,"E-commerce","PT","Portugal",49.38,NULL,"PT-6",2
+293,2,"Digital Transition",7,"Digital Skills","PT","Portugal",39.18,NULL,"PT-7",2
+294,3,"Green Transition",8,"Recycling and Reuse","PT","Portugal",78.69,NULL,"PT-8",3
+295,3,"Green Transition",9,"Greenhouse Gas Emissions","PT","Portugal",74.36,NULL,"PT-9",3
+296,3,"Green Transition",10,"Other Actions","PT","Portugal",94.40,NULL,"PT-10",3
+297,4,"SME Competitiveness",11,"High-Growth Enterprises","PT","Portugal",84.98,NULL,"PT-11",3
+298,4,"SME Competitiveness",12,"SMEs Trade","PT","Portugal",38.18,NULL,"PT-12",1
+299,4,"SME Competitiveness",13,"Labour Productivity","PT","Portugal",17.78,NULL,"PT-13",1
+304,2,"Digital Transition",5,"SMEs Digitalisation","RO","Romania",18.46,NULL,"RO-5",1
+305,2,"Digital Transition",6,"E-commerce","RO","Romania",32.71,NULL,"RO-6",1
+306,2,"Digital Transition",7,"Digital Skills","RO","Romania",36.35,NULL,"RO-7",1
+307,3,"Green Transition",8,"Recycling and Reuse","RO","Romania",52.45,NULL,"RO-8",2
+308,3,"Green Transition",9,"Greenhouse Gas Emissions","RO","Romania",78.15,NULL,"RO-9",3
+309,3,"Green Transition",10,"Other Actions","RO","Romania",70.22,NULL,"RO-10",3
+310,4,"SME Competitiveness",11,"High-Growth Enterprises","RO","Romania",10.00,NULL,"RO-11",1
+311,4,"SME Competitiveness",12,"SMEs Trade","RO","Romania",36.66,NULL,"RO-12",1
+312,4,"SME Competitiveness",13,"Labour Productivity","RO","Romania",13.02,NULL,"RO-13",1
+317,2,"Digital Transition",5,"SMEs Digitalisation","SI","Slovenia",35.01,NULL,"SI-5",1
+318,2,"Digital Transition",6,"E-commerce","SI","Slovenia",48.54,NULL,"SI-6",2
+319,2,"Digital Transition",7,"Digital Skills","SI","Slovenia",26.12,NULL,"SI-7",1
+320,3,"Green Transition",8,"Recycling and Reuse","SI","Slovenia",49.71,NULL,"SI-8",2
+321,3,"Green Transition",9,"Greenhouse Gas Emissions","SI","Slovenia",56.28,NULL,"SI-9",2
+322,3,"Green Transition",10,"Other Actions","SI","Slovenia",44.99,NULL,"SI-10",2
+323,4,"SME Competitiveness",11,"High-Growth Enterprises","SI","Slovenia",85.17,NULL,"SI-11",3
+324,4,"SME Competitiveness",12,"SMEs Trade","SI","Slovenia",83.44,NULL,"SI-12",3
+325,4,"SME Competitiveness",13,"Labour Productivity","SI","Slovenia",31.32,NULL,"SI-13",2
+330,2,"Digital Transition",5,"SMEs Digitalisation","SK","Slovakia",31.80,NULL,"SK-5",1
+331,2,"Digital Transition",6,"E-commerce","SK","Slovakia",40.00,NULL,"SK-6",2
+332,2,"Digital Transition",7,"Digital Skills","SK","Slovakia",26.54,NULL,"SK-7",1
+333,3,"Green Transition",8,"Recycling and Reuse","SK","Slovakia",38.36,NULL,"SK-8",1
+334,3,"Green Transition",9,"Greenhouse Gas Emissions","SK","Slovakia",58.18,NULL,"SK-9",2
+335,3,"Green Transition",10,"Other Actions","SK","Slovakia",44.20,NULL,"SK-10",2
+336,4,"SME Competitiveness",11,"High-Growth Enterprises","SK","Slovakia",75.30,NULL,"SK-11",3
+337,4,"SME Competitiveness",12,"SMEs Trade","SK","Slovakia",52.76,NULL,"SK-12",2
+338,4,"SME Competitiveness",13,"Labour Productivity","SK","Slovakia",16.61,NULL,"SK-13",1
+343,2,"Digital Transition",5,"SMEs Digitalisation","FI","Finland",84.48,NULL,"FI-5",3
+344,2,"Digital Transition",6,"E-commerce","FI","Finland",46.67,NULL,"FI-6",2
+345,2,"Digital Transition",7,"Digital Skills","FI","Finland",92.06,NULL,"FI-7",3
+346,3,"Green Transition",8,"Recycling and Reuse","FI","Finland",69.51,NULL,"FI-8",3
+347,3,"Green Transition",9,"Greenhouse Gas Emissions","FI","Finland",64.10,NULL,"FI-9",2
+348,3,"Green Transition",10,"Other Actions","FI","Finland",43.23,NULL,"FI-10",1
+349,4,"SME Competitiveness",11,"High-Growth Enterprises","FI","Finland",68.76,NULL,"FI-11",2
+350,4,"SME Competitiveness",12,"SMEs Trade","FI","Finland",51.16,NULL,"FI-12",2
+351,4,"SME Competitiveness",13,"Labour Productivity","FI","Finland",63.46,NULL,"FI-13",3
+356,2,"Digital Transition",5,"SMEs Digitalisation","SE","Sweden",64.71,NULL,"SE-5",3
+357,2,"Digital Transition",6,"E-commerce","SE","Sweden",70.83,NULL,"SE-6",3
+358,2,"Digital Transition",7,"Digital Skills","SE","Sweden",66.37,NULL,"SE-7",3
+359,3,"Green Transition",8,"Recycling and Reuse","SE","Sweden",94.47,NULL,"SE-8",3
+360,3,"Green Transition",9,"Greenhouse Gas Emissions","SE","Sweden",71.09,NULL,"SE-9",3
+361,3,"Green Transition",10,"Other Actions","SE","Sweden",58.56,NULL,"SE-10",3
+362,4,"SME Competitiveness",11,"High-Growth Enterprises","SE","Sweden",80.83,NULL,"SE-11",3
+363,4,"SME Competitiveness",12,"SMEs Trade","SE","Sweden",40.57,NULL,"SE-12",2
+364,4,"SME Competitiveness",13,"Labour Productivity","SE","Sweden",62.63,NULL,"SE-13",3

@@ -1,0 +1,42 @@
+"iid","spid","indicator","itype","source","year","visible"
+1,1,"Administrative Burdens on Startups","index","OECD",2018,1
+2,1,"Complexity of Regulatory Procedures","index","OECD",2018,1
+3,1,"Distortions by State Involvement","index","OECD",2018,1
+4,1,"Barriers in Service/Network Sectors","index","OECD",2018,1
+5,2,"Share of Directives Incorrectly Transposed by Country in Total Directives","(conformity, %)","European Commission",2019,1
+6,2,"Share of Directives Not Yet Transposed by Country in Total Directives","(deficit, %)","European Commission",2019,1
+7,2,"Duration of Infringement Proceedings","(months)","European Commission",2019,1
+8,3,"Value of Procurement Advertised on Tenders Electronic Daily (TED) as a proportion of national gross domestic product (GDP)","(as % GDP)","European Commission",2019,1
+9,3,"Share of SMEs Contractors in Total Contractors","(%)","European Commission",2019,1
+10,4,"Regular Business Operations","index","European Commission",2019,1
+11,4,"Business Startup","index","European Commission",2018,1
+12,5,"Big Data Analysis","% of SMEs","Eurostat / DESI",2020,1
+13,5,"Cloud Computing Services","% of SMEs","Eurostat / DESI",2020,1
+14,5,"Social Media Use (Two or More)","% of SMEs","Eurostat / DESI",2019,1
+15,5,"Integration of Internal Processes (ERP Software Package Use)","% of SMEs","Eurostat / DESI",2019,1
+16,5,"AI Systems (At Least One System Is Used)","% of SMEs","Eurostat",2020,1
+17,5,"Internet of Things (IoT) Use","% of SMEs","Eurostat",2020,1
+18,6,"Share of SMEs with E-commerce Sales in Total SMEs","(% of SMEs)","Eurostat",2020,1
+19,6,"Share of SMEs' Total Turnover from E-commerce Sales in Total Turnover","(% of total turnover)","Eurostat",2020,1
+20,7,"Share of SMEs That Employ ICT Specialists in Total SMEs","(% of SMEs)","Eurostat",2020,1
+21,7,"Share of SMEs for Which ICT Functions Are Performed by Own Employees in Total SMEs","(% of SMEs)","Eurostat ",2020,1
+22,8,"Recycling or Reusing Materials","(% of SMEs)","European Commission",2020,1
+23,8,"Reducing Consumption of or Impact on Natural Resources (e.g. Saving Water or Switching to Sustainable Resources)","(% of SMEs)","European Commission",2020,1
+24,8,"Share of Enterprises That Have Reduced the Use of Natural Resources (Water, Wood, Fossil Fuels, etc.) ","(% of enterprises)","European Commission",2021,1
+25,8,"Developing Sustainable Products or Services","(% of SMEs)","European Commission",2020,1
+26,8,"Share of Renewable Energy in Gross Final Energy Consumption [SDG_07_40]","(%, [SDG_07_40])","Eurostat",2019,1
+27,9,"Greenhouse Gas Emissions (Index, 1990 = 100)","(index, 1990 = 100)","Eurostat",2019,1
+28,9,"Share of Enterprises Which Agree That Digital Technologies Help Reducing Greenhouse Gas Emissions","(% of enterprises)","European Commission",2021,1
+29,9,"Share of Enterprises Aiming to Reduce the Environmental Footprint (Either Marginally or Radically)","(% of enterprises)","European Commission",2021,1
+30,9,"Share of Enterprises Which Agree That Digital Technologies Help With Pollution Prevention and Control","(% of enterprises)","European Commission",2021,1
+31,9,"Share of Enterprises That Have Guidelines to Encourage Environmentally Conscious Behaviours (e.g. Sustainable Transport)","(% of enterprises)","European Commission",2021,1
+32,10,"Evaluating The Impact Of Your Enterprise On Society","(% of SMEs)","European Commission",2020,1
+33,10,"Share Of Enterprises That Have Measured Their Environmental Impact ","(% of enterprises)","European Commission",2021,1
+34,10,"Share Of Enterprises That Are Active And Very Active In Taking Environmental Actions","(% of enterprises)","European Commission",2021,1
+35,10,"Share Of Enterprises Which Agree That Using Digital Technologies Has Accelerated Their Environmental Actions","(% of enterprises)","European Commission",2021,1
+36,10,"Share Of Enterprises Which Agree That Digital Technologies Help To Transition To A Circular Economy","(% of enterprises)","European Commission",2021,1
+37,11,"Share of HGEs in Total Active Enterprises (with 10+ Employees)","(%)","Eurostat",2018,1
+38,12,"Share of Exporting SMEs in Total SMEs","(%)","Eurostat",2018,1
+39,12,"Share of SMEs Value Added (at Factor Cost) in Total Value Added (for Business Economy)","(%)","Eurostat",2018,1
+40,12,"SMEs Trade (Imports and Exports) to GDP Ratio","(ratio)","Eurostat",2019,1
+41,13,"SMEs Labour Productivity","VA per employed","Eurostat",2018,1
