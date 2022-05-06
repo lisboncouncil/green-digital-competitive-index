@@ -1,253 +1,253 @@
-"iid","pid","pillar","spid","subpillar","abbr","country","value","notes","pkey","color"
-5,2,"Digital Transition",5,"SMEs Digitalisation","EU27_2020","EU",45.84,NULL,"EU27_2020-5",2
-6,2,"Digital Transition",6,"E-commerce","EU27_2020","EU",41.88,NULL,"EU27_2020-6",2
-7,2,"Digital Transition",7,"Digital Skills","EU27_2020","EU",42.25,NULL,"EU27_2020-7",2
-8,3,"Green Transition",8,"Recycling and Reuse","EU27_2020","EU",55.21,NULL,"EU27_2020-8",2
-9,3,"Green Transition",9,"Greenhouse Gas Emissions","EU27_2020","EU",57.30,NULL,"EU27_2020-9",2
-10,3,"Green Transition",10,"Other Actions","EU27_2020","EU",48.60,NULL,"EU27_2020-10",2
-11,4,"SME Competitiveness",11,"High-Growth Enterprises","EU27_2020","EU",68.20,NULL,"EU27_2020-11",2
-12,4,"SME Competitiveness",12,"SMEs Trade","EU27_2020","EU",38.57,NULL,"EU27_2020-12",1
-13,4,"SME Competitiveness",13,"Labour Productivity","EU27_2020","EU",39.98,NULL,"EU27_2020-13",2
-18,2,"Digital Transition",5,"SMEs Digitalisation","BE","Belgium",68.18,NULL,"BE-5",3
-19,2,"Digital Transition",6,"E-commerce","BE","Belgium",53.96,NULL,"BE-6",3
-20,2,"Digital Transition",7,"Digital Skills","BE","Belgium",79.97,NULL,"BE-7",3
-21,3,"Green Transition",8,"Recycling and Reuse","BE","Belgium",46.55,NULL,"BE-8",1
-22,3,"Green Transition",9,"Greenhouse Gas Emissions","BE","Belgium",59.18,NULL,"BE-9",2
-23,3,"Green Transition",10,"Other Actions","BE","Belgium",43.89,NULL,"BE-10",2
-24,4,"SME Competitiveness",11,"High-Growth Enterprises","BE","Belgium",40.04,NULL,"BE-11",1
-25,4,"SME Competitiveness",12,"SMEs Trade","BE","Belgium",54.90,NULL,"BE-12",3
-26,4,"SME Competitiveness",13,"Labour Productivity","BE","Belgium",66.33,NULL,"BE-13",3
-31,2,"Digital Transition",5,"SMEs Digitalisation","BG","Bulgaria",20.47,NULL,"BG-5",1
-32,2,"Digital Transition",6,"E-commerce","BG","Bulgaria",10.00,NULL,"BG-6",1
-33,2,"Digital Transition",7,"Digital Skills","BG","Bulgaria",24.08,NULL,"BG-7",1
-34,3,"Green Transition",8,"Recycling and Reuse","BG","Bulgaria",41.81,NULL,"BG-8",1
-35,3,"Green Transition",9,"Greenhouse Gas Emissions","BG","Bulgaria",60.91,NULL,"BG-9",2
-36,3,"Green Transition",10,"Other Actions","BG","Bulgaria",46.43,NULL,"BG-10",2
-37,4,"SME Competitiveness",11,"High-Growth Enterprises","BG","Bulgaria",64.18,NULL,"BG-11",2
-38,4,"SME Competitiveness",12,"SMEs Trade","BG","Bulgaria",61.14,NULL,"BG-12",3
-39,4,"SME Competitiveness",13,"Labour Productivity","BG","Bulgaria",10.00,NULL,"BG-13",1
-44,2,"Digital Transition",5,"SMEs Digitalisation","CZ","Czechia",38.20,NULL,"CZ-5",1
-45,2,"Digital Transition",6,"E-commerce","CZ","Czechia",69.79,NULL,"CZ-6",3
-46,2,"Digital Transition",7,"Digital Skills","CZ","Czechia",33.88,NULL,"CZ-7",1
-47,3,"Green Transition",8,"Recycling and Reuse","CZ","Czechia",45.12,NULL,"CZ-8",1
-48,3,"Green Transition",9,"Greenhouse Gas Emissions","CZ","Czechia",31.76,NULL,"CZ-9",1
-49,3,"Green Transition",10,"Other Actions","CZ","Czechia",17.73,NULL,"CZ-10",1
-50,4,"SME Competitiveness",11,"High-Growth Enterprises","CZ","Czechia",66.82,NULL,"CZ-11",2
-51,4,"SME Competitiveness",12,"SMEs Trade","CZ","Czechia",38.40,NULL,"CZ-12",1
-52,4,"SME Competitiveness",13,"Labour Productivity","CZ","Czechia",23.01,NULL,"CZ-13",2
-57,2,"Digital Transition",5,"SMEs Digitalisation","DK","Denmark",74.18,NULL,"DK-5",3
-58,2,"Digital Transition",6,"E-commerce","DK","Denmark",86.88,NULL,"DK-6",3
-59,2,"Digital Transition",7,"Digital Skills","DK","Denmark",85.50,NULL,"DK-7",3
-60,3,"Green Transition",8,"Recycling and Reuse","DK","Denmark",60.81,NULL,"DK-8",3
-61,3,"Green Transition",9,"Greenhouse Gas Emissions","DK","Denmark",37.29,NULL,"DK-9",1
-62,3,"Green Transition",10,"Other Actions","DK","Denmark",31.41,NULL,"DK-10",1
-63,4,"SME Competitiveness",11,"High-Growth Enterprises","DK","Denmark",57.89,NULL,"DK-11",1
-64,4,"SME Competitiveness",12,"SMEs Trade","DK","Denmark",53.57,NULL,"DK-12",2
-65,4,"SME Competitiveness",13,"Labour Productivity","DK","Denmark",100.00,NULL,"DK-13",3
-70,2,"Digital Transition",5,"SMEs Digitalisation","DE","Germany",43.54,NULL,"DE-5",2
-71,2,"Digital Transition",6,"E-commerce","DE","Germany",38.33,NULL,"DE-6",2
-72,2,"Digital Transition",7,"Digital Skills","DE","Germany",49.83,NULL,"DE-7",2
-73,3,"Green Transition",8,"Recycling and Reuse","DE","Germany",63.85,NULL,"DE-8",3
-74,3,"Green Transition",9,"Greenhouse Gas Emissions","DE","Germany",37.67,NULL,"DE-9",1
-75,3,"Green Transition",10,"Other Actions","DE","Germany",35.58,NULL,"DE-10",1
-76,4,"SME Competitiveness",11,"High-Growth Enterprises","DE","Germany",61.22,NULL,"DE-11",1
-77,4,"SME Competitiveness",12,"SMEs Trade","DE","Germany",38.94,NULL,"DE-12",1
-78,4,"SME Competitiveness",13,"Labour Productivity","DE","Germany",47.29,NULL,"DE-13",3
-83,2,"Digital Transition",5,"SMEs Digitalisation","EE","Estonia",37.58,NULL,"EE-5",1
-84,2,"Digital Transition",6,"E-commerce","EE","Estonia",40.21,NULL,"EE-6",2
-85,2,"Digital Transition",7,"Digital Skills","EE","Estonia",50.67,NULL,"EE-7",2
-86,3,"Green Transition",8,"Recycling and Reuse","EE","Estonia",26.96,NULL,"EE-8",1
-87,3,"Green Transition",9,"Greenhouse Gas Emissions","EE","Estonia",42.59,NULL,"EE-9",1
-88,3,"Green Transition",10,"Other Actions","EE","Estonia",32.55,NULL,"EE-10",1
-89,4,"SME Competitiveness",11,"High-Growth Enterprises","EE","Estonia",59.84,NULL,"EE-11",1
-90,4,"SME Competitiveness",12,"SMEs Trade","EE","Estonia",70.00,NULL,"EE-12",3
-91,4,"SME Competitiveness",13,"Labour Productivity","EE","Estonia",28.63,NULL,"EE-13",2
-96,2,"Digital Transition",5,"SMEs Digitalisation","IE","Ireland",75.95,NULL,"IE-5",3
-97,2,"Digital Transition",6,"E-commerce","IE","Ireland",100.00,NULL,"IE-6",3
-98,2,"Digital Transition",7,"Digital Skills","IE","Ireland",80.57,NULL,"IE-7",3
-99,3,"Green Transition",8,"Recycling and Reuse","IE","Ireland",71.48,NULL,"IE-8",3
-100,3,"Green Transition",9,"Greenhouse Gas Emissions","IE","Ireland",78.04,NULL,"IE-9",3
-101,3,"Green Transition",10,"Other Actions","IE","Ireland",77.41,NULL,"IE-10",3
-102,4,"SME Competitiveness",11,"High-Growth Enterprises","IE","Ireland",92.77,NULL,"IE-11",3
-103,4,"SME Competitiveness",12,"SMEs Trade","IE","Ireland",22.77,NULL,"IE-12",1
-104,4,"SME Competitiveness",13,"Labour Productivity","IE","Ireland",81.15,NULL,"IE-13",3
-109,2,"Digital Transition",5,"SMEs Digitalisation","EL","Greece",38.72,NULL,"EL-5",2
-110,2,"Digital Transition",6,"E-commerce","EL","Greece",11.88,NULL,"EL-6",1
-111,2,"Digital Transition",7,"Digital Skills","EL","Greece",27.93,NULL,"EL-7",1
-112,3,"Green Transition",8,"Recycling and Reuse","EL","Greece",47.65,NULL,"EL-8",2
-113,3,"Green Transition",9,"Greenhouse Gas Emissions","EL","Greece",58.30,NULL,"EL-9",2
-114,3,"Green Transition",10,"Other Actions","EL","Greece",49.02,NULL,"EL-10",2
-115,4,"SME Competitiveness",11,"High-Growth Enterprises","EL","Greece",100.00,NULL,"EL-11",3
-116,4,"SME Competitiveness",12,"SMEs Trade","EL","Greece",36.39,NULL,"EL-12",1
-117,4,"SME Competitiveness",13,"Labour Productivity","EL","Greece",11.19,NULL,"EL-13",1
-122,2,"Digital Transition",5,"SMEs Digitalisation","ES","Spain",45.32,NULL,"ES-5",2
-123,2,"Digital Transition",6,"E-commerce","ES","Spain",49.79,NULL,"ES-6",2
-124,2,"Digital Transition",7,"Digital Skills","ES","Spain",34.91,NULL,"ES-7",1
-125,3,"Green Transition",8,"Recycling and Reuse","ES","Spain",79.11,NULL,"ES-8",3
-126,3,"Green Transition",9,"Greenhouse Gas Emissions","ES","Spain",67.60,NULL,"ES-9",3
-127,3,"Green Transition",10,"Other Actions","ES","Spain",71.39,NULL,"ES-10",3
-128,4,"SME Competitiveness",11,"High-Growth Enterprises","ES","Spain",94.72,NULL,"ES-11",3
-129,4,"SME Competitiveness",12,"SMEs Trade","ES","Spain",40.03,NULL,"ES-12",2
-130,4,"SME Competitiveness",13,"Labour Productivity","ES","Spain",33.32,NULL,"ES-13",2
-135,2,"Digital Transition",5,"SMEs Digitalisation","FR","France",46.42,NULL,"FR-5",2
-136,2,"Digital Transition",6,"E-commerce","FR","France",35.21,NULL,"FR-6",2
-137,2,"Digital Transition",7,"Digital Skills","FR","France",36.95,NULL,"FR-7",2
-138,3,"Green Transition",8,"Recycling and Reuse","FR","France",59.11,NULL,"FR-8",2
-139,3,"Green Transition",9,"Greenhouse Gas Emissions","FR","France",49.65,NULL,"FR-9",1
-140,3,"Green Transition",10,"Other Actions","FR","France",41.20,NULL,"FR-10",1
-141,4,"SME Competitiveness",11,"High-Growth Enterprises","FR","France",66.63,NULL,"FR-11",2
-142,4,"SME Competitiveness",12,"SMEs Trade","FR","France",21.02,NULL,"FR-12",1
-143,4,"SME Competitiveness",13,"Labour Productivity","FR","France",53.03,NULL,"FR-13",3
-148,2,"Digital Transition",5,"SMEs Digitalisation","HR","Croatia",41.09,NULL,"HR-5",2
-149,2,"Digital Transition",6,"E-commerce","HR","Croatia",62.29,NULL,"HR-6",3
-150,2,"Digital Transition",7,"Digital Skills","HR","Croatia",47.78,NULL,"HR-7",2
-151,3,"Green Transition",8,"Recycling and Reuse","HR","Croatia",49.37,NULL,"HR-8",2
-152,3,"Green Transition",9,"Greenhouse Gas Emissions","HR","Croatia",66.16,NULL,"HR-9",3
-153,3,"Green Transition",10,"Other Actions","HR","Croatia",57.12,NULL,"HR-10",3
-154,4,"SME Competitiveness",11,"High-Growth Enterprises","HR","Croatia",69.52,NULL,"HR-11",2
-155,4,"SME Competitiveness",12,"SMEs Trade","HR","Croatia",47.52,NULL,"HR-12",2
-156,4,"SME Competitiveness",13,"Labour Productivity","HR","Croatia",19.52,NULL,"HR-13",2
-161,2,"Digital Transition",5,"SMEs Digitalisation","IT","Italy",50.92,NULL,"IT-5",3
-162,2,"Digital Transition",6,"E-commerce","IT","Italy",29.58,NULL,"IT-6",1
-163,2,"Digital Transition",7,"Digital Skills","IT","Italy",10.00,NULL,"IT-7",1
-164,3,"Green Transition",8,"Recycling and Reuse","IT","Italy",28.00,NULL,"IT-8",1
-165,3,"Green Transition",9,"Greenhouse Gas Emissions","IT","Italy",67.03,NULL,"IT-9",3
-166,3,"Green Transition",10,"Other Actions","IT","Italy",43.58,NULL,"IT-10",2
-167,4,"SME Competitiveness",11,"High-Growth Enterprises","IT","Italy",64.68,NULL,"IT-11",2
-168,4,"SME Competitiveness",12,"SMEs Trade","IT","Italy",47.97,NULL,"IT-12",2
-169,4,"SME Competitiveness",13,"Labour Productivity","IT","Italy",38.71,NULL,"IT-13",2
-174,2,"Digital Transition",5,"SMEs Digitalisation","CY","Cyprus",43.56,NULL,"CY-5",2
-175,2,"Digital Transition",6,"E-commerce","CY","Cyprus",22.08,NULL,"CY-6",1
-176,2,"Digital Transition",7,"Digital Skills","CY","Cyprus",50.97,NULL,"CY-7",2
-177,3,"Green Transition",8,"Recycling and Reuse","CY","Cyprus",40.66,NULL,"CY-8",1
-178,3,"Green Transition",9,"Greenhouse Gas Emissions","CY","Cyprus",10.00,NULL,"CY-9",1
-179,3,"Green Transition",10,"Other Actions","CY","Cyprus",34.90,NULL,"CY-10",1
-180,4,"SME Competitiveness",11,"High-Growth Enterprises","CY","Cyprus",22.95,NULL,"CY-11",1
-181,4,"SME Competitiveness",12,"SMEs Trade","CY","Cyprus",58.82,NULL,"CY-12",3
-182,4,"SME Competitiveness",13,"Labour Productivity","CY","Cyprus",25.41,NULL,"CY-13",2
-187,2,"Digital Transition",5,"SMEs Digitalisation","LV","Latvia",34.10,NULL,"LV-5",1
-188,2,"Digital Transition",6,"E-commerce","LV","Latvia",24.17,NULL,"LV-6",1
-189,2,"Digital Transition",7,"Digital Skills","LV","Latvia",28.53,NULL,"LV-7",1
-190,3,"Green Transition",8,"Recycling and Reuse","LV","Latvia",57.04,NULL,"LV-8",2
-191,3,"Green Transition",9,"Greenhouse Gas Emissions","LV","Latvia",39.38,NULL,"LV-9",1
-192,3,"Green Transition",10,"Other Actions","LV","Latvia",43.96,NULL,"LV-10",2
-193,4,"SME Competitiveness",11,"High-Growth Enterprises","LV","Latvia",63.92,NULL,"LV-11",1
-194,4,"SME Competitiveness",12,"SMEs Trade","LV","Latvia",78.06,NULL,"LV-12",3
-195,4,"SME Competitiveness",13,"Labour Productivity","LV","Latvia",15.37,NULL,"LV-13",1
-200,2,"Digital Transition",5,"SMEs Digitalisation","LT","Lithuania",48.83,NULL,"LT-5",2
-201,2,"Digital Transition",6,"E-commerce","LT","Lithuania",62.50,NULL,"LT-6",3
-202,2,"Digital Transition",7,"Digital Skills","LT","Lithuania",43.93,NULL,"LT-7",2
-203,3,"Green Transition",8,"Recycling and Reuse","LT","Lithuania",35.26,NULL,"LT-8",1
-204,3,"Green Transition",9,"Greenhouse Gas Emissions","LT","Lithuania",64.34,NULL,"LT-9",3
-205,3,"Green Transition",10,"Other Actions","LT","Lithuania",38.46,NULL,"LT-10",1
-206,4,"SME Competitiveness",11,"High-Growth Enterprises","LT","Lithuania",57.77,NULL,"LT-11",1
-207,4,"SME Competitiveness",12,"SMEs Trade","LT","Lithuania",65.48,NULL,"LT-12",3
-208,4,"SME Competitiveness",13,"Labour Productivity","LT","Lithuania",17.03,NULL,"LT-13",1
-213,2,"Digital Transition",5,"SMEs Digitalisation","LU","Luxembourg",50.84,NULL,"LU-5",3
-214,2,"Digital Transition",6,"E-commerce","LU","Luxembourg",16.67,NULL,"LU-6",1
-215,2,"Digital Transition",7,"Digital Skills","LU","Luxembourg",50.61,NULL,"LU-7",2
-216,3,"Green Transition",8,"Recycling and Reuse","LU","Luxembourg",68.98,NULL,"LU-8",3
-217,3,"Green Transition",9,"Greenhouse Gas Emissions","LU","Luxembourg",72.61,NULL,"LU-9",3
-218,3,"Green Transition",10,"Other Actions","LU","Luxembourg",82.35,NULL,"LU-10",3
-219,4,"SME Competitiveness",11,"High-Growth Enterprises","LU","Luxembourg",69.14,NULL,"LU-11",2
-220,4,"SME Competitiveness",12,"SMEs Trade","LU","Luxembourg",47.14,NULL,"LU-12",2
-221,4,"SME Competitiveness",13,"Labour Productivity","LU","Luxembourg",89.94,NULL,"LU-13",3
-226,2,"Digital Transition",5,"SMEs Digitalisation","HU","Hungary",19.74,NULL,"HU-5",1
-227,2,"Digital Transition",6,"E-commerce","HU","Hungary",29.58,NULL,"HU-6",1
-228,2,"Digital Transition",7,"Digital Skills","HU","Hungary",66.07,NULL,"HU-7",3
-229,3,"Green Transition",8,"Recycling and Reuse","HU","Hungary",25.43,NULL,"HU-8",1
-230,3,"Green Transition",9,"Greenhouse Gas Emissions","HU","Hungary",45.61,NULL,"HU-9",1
-231,3,"Green Transition",10,"Other Actions","HU","Hungary",33.59,NULL,"HU-10",1
-232,4,"SME Competitiveness",11,"High-Growth Enterprises","HU","Hungary",72.53,NULL,"HU-11",2
-233,4,"SME Competitiveness",12,"SMEs Trade","HU","Hungary",48.54,NULL,"HU-12",2
-234,4,"SME Competitiveness",13,"Labour Productivity","HU","Hungary",18.35,NULL,"HU-13",1
-239,2,"Digital Transition",5,"SMEs Digitalisation","MT","Malta",80.62,NULL,"MT-5",3
-240,2,"Digital Transition",6,"E-commerce","MT","Malta",42.71,NULL,"MT-6",2
-241,2,"Digital Transition",7,"Digital Skills","MT","Malta",79.97,NULL,"MT-7",3
-242,3,"Green Transition",8,"Recycling and Reuse","MT","Malta",55.11,NULL,"MT-8",2
-243,3,"Green Transition",9,"Greenhouse Gas Emissions","MT","Malta",54.48,NULL,"MT-9",2
-244,3,"Green Transition",10,"Other Actions","MT","Malta",55.29,NULL,"MT-10",3
-245,4,"SME Competitiveness",11,"High-Growth Enterprises","MT","Malta",84.92,NULL,"MT-11",3
-246,4,"SME Competitiveness",12,"SMEs Trade","MT","Malta",53.73,NULL,"MT-12",2
-247,4,"SME Competitiveness",13,"Labour Productivity","MT","Malta",40.96,NULL,"MT-13",2
-252,2,"Digital Transition",5,"SMEs Digitalisation","NL","Netherlands",64.98,NULL,"NL-5",3
-253,2,"Digital Transition",6,"E-commerce","NL","Netherlands",52.08,NULL,"NL-6",3
-254,2,"Digital Transition",7,"Digital Skills","NL","Netherlands",62.04,NULL,"NL-7",3
-255,3,"Green Transition",8,"Recycling and Reuse","NL","Netherlands",52.98,NULL,"NL-8",2
-256,3,"Green Transition",9,"Greenhouse Gas Emissions","NL","Netherlands",54.05,NULL,"NL-9",2
-257,3,"Green Transition",10,"Other Actions","NL","Netherlands",48.22,NULL,"NL-10",2
-258,4,"SME Competitiveness",11,"High-Growth Enterprises","NL","Netherlands",95.98,NULL,"NL-11",3
-259,4,"SME Competitiveness",12,"SMEs Trade","NL","Netherlands",67.96,NULL,"NL-12",3
-260,4,"SME Competitiveness",13,"Labour Productivity","NL","Netherlands",62.11,NULL,"NL-13",3
-265,2,"Digital Transition",5,"SMEs Digitalisation","AT","Austria",52.32,NULL,"AT-5",3
-266,2,"Digital Transition",6,"E-commerce","AT","Austria",51.46,NULL,"AT-6",3
-267,2,"Digital Transition",7,"Digital Skills","AT","Austria",51.45,NULL,"AT-7",3
-268,3,"Green Transition",8,"Recycling and Reuse","AT","Austria",62.96,NULL,"AT-8",3
-269,3,"Green Transition",9,"Greenhouse Gas Emissions","AT","Austria",40.91,NULL,"AT-9",1
-270,3,"Green Transition",10,"Other Actions","AT","Austria",44.24,NULL,"AT-10",2
-271,4,"SME Competitiveness",11,"High-Growth Enterprises","AT","Austria",46.14,NULL,"AT-11",1
-272,4,"SME Competitiveness",12,"SMEs Trade","AT","Austria",63.15,NULL,"AT-12",3
-273,4,"SME Competitiveness",13,"Labour Productivity","AT","Austria",44.59,NULL,"AT-13",2
-278,2,"Digital Transition",5,"SMEs Digitalisation","PL","Poland",28.76,NULL,"PL-5",1
-279,2,"Digital Transition",6,"E-commerce","PL","Poland",26.67,NULL,"PL-6",1
-280,2,"Digital Transition",7,"Digital Skills","PL","Poland",42.19,NULL,"PL-7",2
-281,3,"Green Transition",8,"Recycling and Reuse","PL","Poland",47.16,NULL,"PL-8",2
-282,3,"Green Transition",9,"Greenhouse Gas Emissions","PL","Poland",62.91,NULL,"PL-9",2
-283,3,"Green Transition",10,"Other Actions","PL","Poland",51.35,NULL,"PL-10",3
-284,4,"SME Competitiveness",11,"High-Growth Enterprises","PL","Poland",72.35,NULL,"PL-11",2
-285,4,"SME Competitiveness",12,"SMEs Trade","PL","Poland",39.76,NULL,"PL-12",1
-286,4,"SME Competitiveness",13,"Labour Productivity","PL","Poland",16.95,NULL,"PL-13",1
-291,2,"Digital Transition",5,"SMEs Digitalisation","PT","Portugal",40.86,NULL,"PT-5",2
-292,2,"Digital Transition",6,"E-commerce","PT","Portugal",49.38,NULL,"PT-6",2
-293,2,"Digital Transition",7,"Digital Skills","PT","Portugal",39.18,NULL,"PT-7",2
-294,3,"Green Transition",8,"Recycling and Reuse","PT","Portugal",78.69,NULL,"PT-8",3
-295,3,"Green Transition",9,"Greenhouse Gas Emissions","PT","Portugal",74.36,NULL,"PT-9",3
-296,3,"Green Transition",10,"Other Actions","PT","Portugal",94.40,NULL,"PT-10",3
-297,4,"SME Competitiveness",11,"High-Growth Enterprises","PT","Portugal",84.98,NULL,"PT-11",3
-298,4,"SME Competitiveness",12,"SMEs Trade","PT","Portugal",38.18,NULL,"PT-12",1
-299,4,"SME Competitiveness",13,"Labour Productivity","PT","Portugal",17.78,NULL,"PT-13",1
-304,2,"Digital Transition",5,"SMEs Digitalisation","RO","Romania",18.46,NULL,"RO-5",1
-305,2,"Digital Transition",6,"E-commerce","RO","Romania",32.71,NULL,"RO-6",1
-306,2,"Digital Transition",7,"Digital Skills","RO","Romania",36.35,NULL,"RO-7",1
-307,3,"Green Transition",8,"Recycling and Reuse","RO","Romania",52.45,NULL,"RO-8",2
-308,3,"Green Transition",9,"Greenhouse Gas Emissions","RO","Romania",78.15,NULL,"RO-9",3
-309,3,"Green Transition",10,"Other Actions","RO","Romania",70.22,NULL,"RO-10",3
-310,4,"SME Competitiveness",11,"High-Growth Enterprises","RO","Romania",10.00,NULL,"RO-11",1
-311,4,"SME Competitiveness",12,"SMEs Trade","RO","Romania",36.66,NULL,"RO-12",1
-312,4,"SME Competitiveness",13,"Labour Productivity","RO","Romania",13.02,NULL,"RO-13",1
-317,2,"Digital Transition",5,"SMEs Digitalisation","SI","Slovenia",35.01,NULL,"SI-5",1
-318,2,"Digital Transition",6,"E-commerce","SI","Slovenia",48.54,NULL,"SI-6",2
-319,2,"Digital Transition",7,"Digital Skills","SI","Slovenia",26.12,NULL,"SI-7",1
-320,3,"Green Transition",8,"Recycling and Reuse","SI","Slovenia",49.71,NULL,"SI-8",2
-321,3,"Green Transition",9,"Greenhouse Gas Emissions","SI","Slovenia",56.28,NULL,"SI-9",2
-322,3,"Green Transition",10,"Other Actions","SI","Slovenia",44.99,NULL,"SI-10",2
-323,4,"SME Competitiveness",11,"High-Growth Enterprises","SI","Slovenia",85.17,NULL,"SI-11",3
-324,4,"SME Competitiveness",12,"SMEs Trade","SI","Slovenia",83.44,NULL,"SI-12",3
-325,4,"SME Competitiveness",13,"Labour Productivity","SI","Slovenia",31.32,NULL,"SI-13",2
-330,2,"Digital Transition",5,"SMEs Digitalisation","SK","Slovakia",31.80,NULL,"SK-5",1
-331,2,"Digital Transition",6,"E-commerce","SK","Slovakia",40.00,NULL,"SK-6",2
-332,2,"Digital Transition",7,"Digital Skills","SK","Slovakia",26.54,NULL,"SK-7",1
-333,3,"Green Transition",8,"Recycling and Reuse","SK","Slovakia",38.36,NULL,"SK-8",1
-334,3,"Green Transition",9,"Greenhouse Gas Emissions","SK","Slovakia",58.18,NULL,"SK-9",2
-335,3,"Green Transition",10,"Other Actions","SK","Slovakia",44.20,NULL,"SK-10",2
-336,4,"SME Competitiveness",11,"High-Growth Enterprises","SK","Slovakia",75.30,NULL,"SK-11",3
-337,4,"SME Competitiveness",12,"SMEs Trade","SK","Slovakia",52.76,NULL,"SK-12",2
-338,4,"SME Competitiveness",13,"Labour Productivity","SK","Slovakia",16.61,NULL,"SK-13",1
-343,2,"Digital Transition",5,"SMEs Digitalisation","FI","Finland",84.48,NULL,"FI-5",3
-344,2,"Digital Transition",6,"E-commerce","FI","Finland",46.67,NULL,"FI-6",2
-345,2,"Digital Transition",7,"Digital Skills","FI","Finland",92.06,NULL,"FI-7",3
-346,3,"Green Transition",8,"Recycling and Reuse","FI","Finland",69.51,NULL,"FI-8",3
-347,3,"Green Transition",9,"Greenhouse Gas Emissions","FI","Finland",64.10,NULL,"FI-9",2
-348,3,"Green Transition",10,"Other Actions","FI","Finland",43.23,NULL,"FI-10",1
-349,4,"SME Competitiveness",11,"High-Growth Enterprises","FI","Finland",68.76,NULL,"FI-11",2
-350,4,"SME Competitiveness",12,"SMEs Trade","FI","Finland",51.16,NULL,"FI-12",2
-351,4,"SME Competitiveness",13,"Labour Productivity","FI","Finland",63.46,NULL,"FI-13",3
-356,2,"Digital Transition",5,"SMEs Digitalisation","SE","Sweden",64.71,NULL,"SE-5",3
-357,2,"Digital Transition",6,"E-commerce","SE","Sweden",70.83,NULL,"SE-6",3
-358,2,"Digital Transition",7,"Digital Skills","SE","Sweden",66.37,NULL,"SE-7",3
-359,3,"Green Transition",8,"Recycling and Reuse","SE","Sweden",94.47,NULL,"SE-8",3
-360,3,"Green Transition",9,"Greenhouse Gas Emissions","SE","Sweden",71.09,NULL,"SE-9",3
-361,3,"Green Transition",10,"Other Actions","SE","Sweden",58.56,NULL,"SE-10",3
-362,4,"SME Competitiveness",11,"High-Growth Enterprises","SE","Sweden",80.83,NULL,"SE-11",3
-363,4,"SME Competitiveness",12,"SMEs Trade","SE","Sweden",40.57,NULL,"SE-12",2
-364,4,"SME Competitiveness",13,"Labour Productivity","SE","Sweden",62.63,NULL,"SE-13",3
+"iid","pid","pillar","spid","subpillar","abbr","country","value","notes","pkey","color","last_update"
+1,2,"Digital Transition",5,"SME Digitalisation","EU27_2020","EU",51.89,NULL,"EU27_2020-5",2,"2022-04-22 13:15:41"
+10,2,"Digital Transition",5,"SME Digitalisation","BE","Belgium",73.95,NULL,"BE-5",3,"2022-04-22 13:15:41"
+19,2,"Digital Transition",5,"SME Digitalisation","BG","Bulgaria",21.07,NULL,"BG-5",1,"2022-04-22 13:15:41"
+28,2,"Digital Transition",5,"SME Digitalisation","CZ","Czechia",43.77,NULL,"CZ-5",1,"2022-04-22 13:15:41"
+37,2,"Digital Transition",5,"SME Digitalisation","DK","Denmark",85.11,NULL,"DK-5",3,"2022-04-22 13:15:41"
+46,2,"Digital Transition",5,"SME Digitalisation","DE","Germany",58.47,NULL,"DE-5",3,"2022-04-22 13:15:41"
+55,2,"Digital Transition",5,"SME Digitalisation","EE","Estonia",45.79,NULL,"EE-5",2,"2022-04-22 13:15:41"
+64,2,"Digital Transition",5,"SME Digitalisation","IE","Ireland",67.02,NULL,"IE-5",3,"2022-04-22 13:15:41"
+73,2,"Digital Transition",5,"SME Digitalisation","EL","Greece",29.64,NULL,"EL-5",1,"2022-04-22 13:15:41"
+82,2,"Digital Transition",5,"SME Digitalisation","ES","Spain",50.63,NULL,"ES-5",2,"2022-04-22 13:15:41"
+91,2,"Digital Transition",5,"SME Digitalisation","FR","France",50.89,NULL,"FR-5",2,"2022-04-22 13:15:41"
+100,2,"Digital Transition",5,"SME Digitalisation","HR","Croatia",47.37,NULL,"HR-5",2,"2022-04-22 13:15:41"
+109,2,"Digital Transition",5,"SME Digitalisation","IT","Italy",53.55,NULL,"IT-5",2,"2022-04-22 13:15:41"
+118,2,"Digital Transition",5,"SME Digitalisation","CY","Cyprus",48.01,NULL,"CY-5",2,"2022-04-22 13:15:41"
+127,2,"Digital Transition",5,"SME Digitalisation","LV","Latvia",42.91,NULL,"LV-5",1,"2022-04-22 13:15:41"
+136,2,"Digital Transition",5,"SME Digitalisation","LT","Lithuania",44.56,NULL,"LT-5",2,"2022-04-22 13:15:42"
+145,2,"Digital Transition",5,"SME Digitalisation","LU","Luxembourg",55.89,NULL,"LU-5",3,"2022-04-22 13:15:42"
+154,2,"Digital Transition",5,"SME Digitalisation","HU","Hungary",27.24,NULL,"HU-5",1,"2022-04-22 13:15:42"
+163,2,"Digital Transition",5,"SME Digitalisation","MT","Malta",82.65,NULL,"MT-5",3,"2022-04-22 13:15:42"
+172,2,"Digital Transition",5,"SME Digitalisation","NL","Netherlands",84.32,NULL,"NL-5",3,"2022-04-22 13:15:42"
+181,2,"Digital Transition",5,"SME Digitalisation","AT","Austria",54.33,NULL,"AT-5",3,"2022-04-22 13:15:42"
+190,2,"Digital Transition",5,"SME Digitalisation","PL","Poland",32.06,NULL,"PL-5",1,"2022-04-22 13:15:42"
+199,2,"Digital Transition",5,"SME Digitalisation","PT","Portugal",49.36,NULL,"PT-5",2,"2022-04-22 13:15:42"
+208,2,"Digital Transition",5,"SME Digitalisation","RO","Romania",11.38,NULL,"RO-5",1,"2022-04-22 13:15:42"
+217,2,"Digital Transition",5,"SME Digitalisation","SI","Slovenia",42.77,NULL,"SI-5",1,"2022-04-22 13:15:42"
+226,2,"Digital Transition",5,"SME Digitalisation","SK","Slovakia",34.14,NULL,"SK-5",1,"2022-04-22 13:15:42"
+235,2,"Digital Transition",5,"SME Digitalisation","FI","Finland",91.95,NULL,"FI-5",3,"2022-04-22 13:15:42"
+244,2,"Digital Transition",5,"SME Digitalisation","SE","Sweden",85.98,NULL,"SE-5",3,"2022-04-22 13:15:42"
+2,2,"Digital Transition",6,"E-commerce","EU27_2020","EU",47.68,NULL,"EU27_2020-6",2,"2022-04-22 13:15:41"
+11,2,"Digital Transition",6,"E-commerce","BE","Belgium",68.04,NULL,"BE-6",3,"2022-04-22 13:15:41"
+20,2,"Digital Transition",6,"E-commerce","BG","Bulgaria",11.61,NULL,"BG-6",1,"2022-04-22 13:15:41"
+29,2,"Digital Transition",6,"E-commerce","CZ","Czechia",63.39,NULL,"CZ-6",3,"2022-04-22 13:15:41"
+38,2,"Digital Transition",6,"E-commerce","DK","Denmark",88.39,NULL,"DK-6",3,"2022-04-22 13:15:41"
+47,2,"Digital Transition",6,"E-commerce","DE","Germany",41.07,NULL,"DE-6",2,"2022-04-22 13:15:41"
+56,2,"Digital Transition",6,"E-commerce","EE","Estonia",47.68,NULL,"EE-6",2,"2022-04-22 13:15:41"
+65,2,"Digital Transition",6,"E-commerce","IE","Ireland",100.00,NULL,"IE-6",3,"2022-04-22 13:15:41"
+74,2,"Digital Transition",6,"E-commerce","EL","Greece",43.57,NULL,"EL-6",2,"2022-04-22 13:15:41"
+83,2,"Digital Transition",6,"E-commerce","ES","Spain",48.21,NULL,"ES-6",2,"2022-04-22 13:15:41"
+92,2,"Digital Transition",6,"E-commerce","FR","France",43.75,NULL,"FR-6",2,"2022-04-22 13:15:41"
+101,2,"Digital Transition",6,"E-commerce","HR","Croatia",61.43,NULL,"HR-6",3,"2022-04-22 13:15:41"
+110,2,"Digital Transition",6,"E-commerce","IT","Italy",33.75,NULL,"IT-6",1,"2022-04-22 13:15:41"
+119,2,"Digital Transition",6,"E-commerce","CY","Cyprus",23.75,NULL,"CY-6",1,"2022-04-22 13:15:41"
+128,2,"Digital Transition",6,"E-commerce","LV","Latvia",28.04,NULL,"LV-6",1,"2022-04-22 13:15:41"
+137,2,"Digital Transition",6,"E-commerce","LT","Lithuania",85.18,NULL,"LT-6",3,"2022-04-22 13:15:42"
+146,2,"Digital Transition",6,"E-commerce","LU","Luxembourg",10.00,NULL,"LU-6",1,"2022-04-22 13:15:42"
+155,2,"Digital Transition",6,"E-commerce","HU","Hungary",41.96,NULL,"HU-6",2,"2022-04-22 13:15:42"
+164,2,"Digital Transition",6,"E-commerce","MT","Malta",46.43,NULL,"MT-6",2,"2022-04-22 13:15:42"
+173,2,"Digital Transition",6,"E-commerce","NL","Netherlands",63.21,NULL,"NL-6",3,"2022-04-22 13:15:42"
+182,2,"Digital Transition",6,"E-commerce","AT","Austria",53.93,NULL,"AT-6",2,"2022-04-22 13:15:42"
+191,2,"Digital Transition",6,"E-commerce","PL","Poland",29.29,NULL,"PL-6",1,"2022-04-22 13:15:42"
+200,2,"Digital Transition",6,"E-commerce","PT","Portugal",40.54,NULL,"PT-6",1,"2022-04-22 13:15:42"
+209,2,"Digital Transition",6,"E-commerce","RO","Romania",20.71,NULL,"RO-6",1,"2022-04-22 13:15:42"
+218,2,"Digital Transition",6,"E-commerce","SI","Slovenia",59.11,NULL,"SI-6",2,"2022-04-22 13:15:42"
+227,2,"Digital Transition",6,"E-commerce","SK","Slovakia",28.04,NULL,"SK-6",1,"2022-04-22 13:15:42"
+236,2,"Digital Transition",6,"E-commerce","FI","Finland",64.64,NULL,"FI-6",3,"2022-04-22 13:15:42"
+245,2,"Digital Transition",6,"E-commerce","SE","Sweden",86.07,NULL,"SE-6",3,"2022-04-22 13:15:42"
+3,2,"Digital Transition",7,"Digital Skills","EU27_2020","EU",44.08,NULL,"EU27_2020-7",2,"2022-04-22 13:15:41"
+12,2,"Digital Transition",7,"Digital Skills","BE","Belgium",81.81,NULL,"BE-7",3,"2022-04-22 13:15:41"
+21,2,"Digital Transition",7,"Digital Skills","BG","Bulgaria",20.35,NULL,"BG-7",1,"2022-04-22 13:15:41"
+30,2,"Digital Transition",7,"Digital Skills","CZ","Czechia",43.34,NULL,"CZ-7",2,"2022-04-22 13:15:41"
+39,2,"Digital Transition",7,"Digital Skills","DK","Denmark",83.56,NULL,"DK-7",3,"2022-04-22 13:15:41"
+48,2,"Digital Transition",7,"Digital Skills","DE","Germany",53.00,NULL,"DE-7",2,"2022-04-22 13:15:41"
+57,2,"Digital Transition",7,"Digital Skills","EE","Estonia",47.76,NULL,"EE-7",2,"2022-04-22 13:15:41"
+66,2,"Digital Transition",7,"Digital Skills","IE","Ireland",77.37,NULL,"IE-7",3,"2022-04-22 13:15:41"
+75,2,"Digital Transition",7,"Digital Skills","EL","Greece",31.63,NULL,"EL-7",1,"2022-04-22 13:15:41"
+84,2,"Digital Transition",7,"Digital Skills","ES","Spain",40.15,NULL,"ES-7",2,"2022-04-22 13:15:41"
+93,2,"Digital Transition",7,"Digital Skills","FR","France",35.71,NULL,"FR-7",1,"2022-04-22 13:15:41"
+102,2,"Digital Transition",7,"Digital Skills","HR","Croatia",50.67,NULL,"HR-7",2,"2022-04-22 13:15:41"
+111,2,"Digital Transition",7,"Digital Skills","IT","Italy",19.68,NULL,"IT-7",1,"2022-04-22 13:15:41"
+120,2,"Digital Transition",7,"Digital Skills","CY","Cyprus",56.67,NULL,"CY-7",3,"2022-04-22 13:15:41"
+129,2,"Digital Transition",7,"Digital Skills","LV","Latvia",33.00,NULL,"LV-7",1,"2022-04-22 13:15:41"
+138,2,"Digital Transition",7,"Digital Skills","LT","Lithuania",39.39,NULL,"LT-7",1,"2022-04-22 13:15:42"
+147,2,"Digital Transition",7,"Digital Skills","LU","Luxembourg",51.59,NULL,"LU-7",2,"2022-04-22 13:15:42"
+156,2,"Digital Transition",7,"Digital Skills","HU","Hungary",57.06,NULL,"HU-7",3,"2022-04-22 13:15:42"
+165,2,"Digital Transition",7,"Digital Skills","MT","Malta",77.93,NULL,"MT-7",3,"2022-04-22 13:15:42"
+174,2,"Digital Transition",7,"Digital Skills","NL","Netherlands",61.14,NULL,"NL-7",3,"2022-04-22 13:15:42"
+183,2,"Digital Transition",7,"Digital Skills","AT","Austria",48.28,NULL,"AT-7",2,"2022-04-22 13:15:42"
+192,2,"Digital Transition",7,"Digital Skills","PL","Poland",42.10,NULL,"PL-7",2,"2022-04-22 13:15:42"
+201,2,"Digital Transition",7,"Digital Skills","PT","Portugal",45.90,NULL,"PT-7",2,"2022-04-22 13:15:42"
+210,2,"Digital Transition",7,"Digital Skills","RO","Romania",27.57,NULL,"RO-7",1,"2022-04-22 13:15:42"
+219,2,"Digital Transition",7,"Digital Skills","SI","Slovenia",39.14,NULL,"SI-7",1,"2022-04-22 13:15:42"
+228,2,"Digital Transition",7,"Digital Skills","SK","Slovakia",29.74,NULL,"SK-7",1,"2022-04-22 13:15:42"
+237,2,"Digital Transition",7,"Digital Skills","FI","Finland",94.71,NULL,"FI-7",3,"2022-04-22 13:15:42"
+246,2,"Digital Transition",7,"Digital Skills","SE","Sweden",72.74,NULL,"SE-7",3,"2022-04-22 13:15:42"
+4,3,"Green Transition",8,"Resources","EU27_2020","EU",59.60,NULL,"EU27_2020-8",2,"2022-04-22 13:15:41"
+13,3,"Green Transition",8,"Resources","BE","Belgium",60.39,NULL,"BE-8",2,"2022-04-22 13:15:41"
+22,3,"Green Transition",8,"Resources","BG","Bulgaria",12.95,NULL,"BG-8",1,"2022-04-22 13:15:41"
+31,3,"Green Transition",8,"Resources","CZ","Czechia",52.67,NULL,"CZ-8",2,"2022-04-22 13:15:41"
+40,3,"Green Transition",8,"Resources","DK","Denmark",25.54,NULL,"DK-8",1,"2022-04-22 13:15:41"
+49,3,"Green Transition",8,"Resources","DE","Germany",65.09,NULL,"DE-8",2,"2022-04-22 13:15:41"
+58,3,"Green Transition",8,"Resources","EE","Estonia",30.43,NULL,"EE-8",1,"2022-04-22 13:15:41"
+67,3,"Green Transition",8,"Resources","IE","Ireland",44.29,NULL,"IE-8",1,"2022-04-22 13:15:41"
+76,3,"Green Transition",8,"Resources","EL","Greece",53.70,NULL,"EL-8",2,"2022-04-22 13:15:41"
+85,3,"Green Transition",8,"Resources","ES","Spain",100.00,NULL,"ES-8",3,"2022-04-22 13:15:41"
+94,3,"Green Transition",8,"Resources","FR","France",41.50,NULL,"FR-8",1,"2022-04-22 13:15:41"
+103,3,"Green Transition",8,"Resources","HR","Croatia",38.79,NULL,"HR-8",1,"2022-04-22 13:15:41"
+112,3,"Green Transition",8,"Resources","IT","Italy",58.40,NULL,"IT-8",2,"2022-04-22 13:15:41"
+121,3,"Green Transition",8,"Resources","CY","Cyprus",48.13,NULL,"CY-8",2,"2022-04-22 13:15:41"
+130,3,"Green Transition",8,"Resources","LV","Latvia",34.39,NULL,"LV-8",1,"2022-04-22 13:15:41"
+139,3,"Green Transition",8,"Resources","LT","Lithuania",34.90,NULL,"LT-8",1,"2022-04-22 13:15:42"
+148,3,"Green Transition",8,"Resources","LU","Luxembourg",63.51,NULL,"LU-8",2,"2022-04-22 13:15:42"
+157,3,"Green Transition",8,"Resources","HU","Hungary",52.72,NULL,"HU-8",2,"2022-04-22 13:15:42"
+166,3,"Green Transition",8,"Resources","MT","Malta",50.59,NULL,"MT-8",2,"2022-04-22 13:15:42"
+175,3,"Green Transition",8,"Resources","NL","Netherlands",69.05,NULL,"NL-8",2,"2022-04-22 13:15:42"
+184,3,"Green Transition",8,"Resources","AT","Austria",62.66,NULL,"AT-8",2,"2022-04-22 13:15:42"
+193,3,"Green Transition",8,"Resources","PL","Poland",43.07,NULL,"PL-8",1,"2022-04-22 13:15:42"
+202,3,"Green Transition",8,"Resources","PT","Portugal",45.65,NULL,"PT-8",1,"2022-04-22 13:15:42"
+211,3,"Green Transition",8,"Resources","RO","Romania",59.68,NULL,"RO-8",2,"2022-04-22 13:15:42"
+220,3,"Green Transition",8,"Resources","SI","Slovenia",42.31,NULL,"SI-8",1,"2022-04-22 13:15:42"
+229,3,"Green Transition",8,"Resources","SK","Slovakia",78.01,NULL,"SK-8",3,"2022-04-22 13:15:42"
+238,3,"Green Transition",8,"Resources","FI","Finland",52.34,NULL,"FI-8",2,"2022-04-22 13:15:42"
+247,3,"Green Transition",8,"Resources","SE","Sweden",91.83,NULL,"SE-8",3,"2022-04-22 13:15:42"
+5,3,"Green Transition",9,"Emissions","EU27_2020","EU",64.09,NULL,"EU27_2020-9",2,"2022-04-22 13:15:41"
+14,3,"Green Transition",9,"Emissions","BE","Belgium",64.30,NULL,"BE-9",2,"2022-04-22 13:15:41"
+23,3,"Green Transition",9,"Emissions","BG","Bulgaria",68.11,NULL,"BG-9",3,"2022-04-22 13:15:41"
+32,3,"Green Transition",9,"Emissions","CZ","Czechia",53.96,NULL,"CZ-9",1,"2022-04-22 13:15:41"
+41,3,"Green Transition",9,"Emissions","DK","Denmark",76.71,NULL,"DK-9",3,"2022-04-22 13:15:41"
+50,3,"Green Transition",9,"Emissions","DE","Germany",65.36,NULL,"DE-9",2,"2022-04-22 13:15:41"
+59,3,"Green Transition",9,"Emissions","EE","Estonia",68.36,NULL,"EE-9",3,"2022-04-22 13:15:41"
+68,3,"Green Transition",9,"Emissions","IE","Ireland",71.57,NULL,"IE-9",3,"2022-04-22 13:15:41"
+77,3,"Green Transition",9,"Emissions","EL","Greece",40.23,NULL,"EL-9",1,"2022-04-22 13:15:41"
+86,3,"Green Transition",9,"Emissions","ES","Spain",37.25,NULL,"ES-9",1,"2022-04-22 13:15:41"
+95,3,"Green Transition",9,"Emissions","FR","France",78.91,NULL,"FR-9",3,"2022-04-22 13:15:41"
+104,3,"Green Transition",9,"Emissions","HR","Croatia",48.29,NULL,"HR-9",1,"2022-04-22 13:15:41"
+113,3,"Green Transition",9,"Emissions","IT","Italy",49.13,NULL,"IT-9",1,"2022-04-22 13:15:41"
+122,3,"Green Transition",9,"Emissions","CY","Cyprus",11.85,NULL,"CY-9",1,"2022-04-22 13:15:41"
+131,3,"Green Transition",9,"Emissions","LV","Latvia",39.80,NULL,"LV-9",1,"2022-04-22 13:15:42"
+140,3,"Green Transition",9,"Emissions","LT","Lithuania",63.73,NULL,"LT-9",2,"2022-04-22 13:15:42"
+149,3,"Green Transition",9,"Emissions","LU","Luxembourg",57.08,NULL,"LU-9",1,"2022-04-22 13:15:42"
+158,3,"Green Transition",9,"Emissions","HU","Hungary",62.88,NULL,"HU-9",2,"2022-04-22 13:15:42"
+167,3,"Green Transition",9,"Emissions","MT","Malta",71.94,NULL,"MT-9",3,"2022-04-22 13:15:42"
+176,3,"Green Transition",9,"Emissions","NL","Netherlands",58.95,NULL,"NL-9",1,"2022-04-22 13:15:42"
+185,3,"Green Transition",9,"Emissions","AT","Austria",63.92,NULL,"AT-9",2,"2022-04-22 13:15:42"
+194,3,"Green Transition",9,"Emissions","PL","Poland",72.33,NULL,"PL-9",3,"2022-04-22 13:15:42"
+203,3,"Green Transition",9,"Emissions","PT","Portugal",38.33,NULL,"PT-9",1,"2022-04-22 13:15:42"
+212,3,"Green Transition",9,"Emissions","RO","Romania",74.76,NULL,"RO-9",3,"2022-04-22 13:15:42"
+221,3,"Green Transition",9,"Emissions","SI","Slovenia",29.54,NULL,"SI-9",1,"2022-04-22 13:15:42"
+230,3,"Green Transition",9,"Emissions","SK","Slovakia",59.03,NULL,"SK-9",1,"2022-04-22 13:15:42"
+239,3,"Green Transition",9,"Emissions","FI","Finland",61.83,NULL,"FI-9",1,"2022-04-22 13:15:42"
+248,3,"Green Transition",9,"Emissions","SE","Sweden",83.51,NULL,"SE-9",3,"2022-04-22 13:15:42"
+6,3,"Green Transition",10,"Outputs","EU27_2020","EU",50.35,NULL,"EU27_2020-10",2,"2022-04-22 13:15:41"
+15,3,"Green Transition",10,"Outputs","BE","Belgium",71.71,NULL,"BE-10",3,"2022-04-22 13:15:41"
+24,3,"Green Transition",10,"Outputs","BG","Bulgaria",21.01,NULL,"BG-10",1,"2022-04-22 13:15:41"
+33,3,"Green Transition",10,"Outputs","CZ","Czechia",22.47,NULL,"CZ-10",1,"2022-04-22 13:15:41"
+42,3,"Green Transition",10,"Outputs","DK","Denmark",78.05,NULL,"DK-10",3,"2022-04-22 13:15:41"
+51,3,"Green Transition",10,"Outputs","DE","Germany",51.64,NULL,"DE-10",2,"2022-04-22 13:15:41"
+60,3,"Green Transition",10,"Outputs","EE","Estonia",51.90,NULL,"EE-10",2,"2022-04-22 13:15:41"
+69,3,"Green Transition",10,"Outputs","IE","Ireland",41.80,NULL,"IE-10",2,"2022-04-22 13:15:41"
+78,3,"Green Transition",10,"Outputs","EL","Greece",41.15,NULL,"EL-10",2,"2022-04-22 13:15:41"
+87,3,"Green Transition",10,"Outputs","ES","Spain",43.88,NULL,"ES-10",2,"2022-04-22 13:15:41"
+96,3,"Green Transition",10,"Outputs","FR","France",63.32,NULL,"FR-10",3,"2022-04-22 13:15:41"
+105,3,"Green Transition",10,"Outputs","HR","Croatia",38.55,NULL,"HR-10",1,"2022-04-22 13:15:41"
+114,3,"Green Transition",10,"Outputs","IT","Italy",40.32,NULL,"IT-10",2,"2022-04-22 13:15:41"
+123,3,"Green Transition",10,"Outputs","CY","Cyprus",37.71,NULL,"CY-10",1,"2022-04-22 13:15:41"
+132,3,"Green Transition",10,"Outputs","LV","Latvia",47.21,NULL,"LV-10",2,"2022-04-22 13:15:42"
+141,3,"Green Transition",10,"Outputs","LT","Lithuania",47.16,NULL,"LT-10",2,"2022-04-22 13:15:42"
+150,3,"Green Transition",10,"Outputs","LU","Luxembourg",93.08,NULL,"LU-10",3,"2022-04-22 13:15:42"
+159,3,"Green Transition",10,"Outputs","HU","Hungary",47.09,NULL,"HU-10",2,"2022-04-22 13:15:42"
+168,3,"Green Transition",10,"Outputs","MT","Malta",43.86,NULL,"MT-10",2,"2022-04-22 13:15:42"
+177,3,"Green Transition",10,"Outputs","NL","Netherlands",94.16,NULL,"NL-10",3,"2022-04-22 13:15:42"
+186,3,"Green Transition",10,"Outputs","AT","Austria",74.51,NULL,"AT-10",3,"2022-04-22 13:15:42"
+195,3,"Green Transition",10,"Outputs","PL","Poland",29.81,NULL,"PL-10",1,"2022-04-22 13:15:42"
+204,3,"Green Transition",10,"Outputs","PT","Portugal",51.73,NULL,"PT-10",2,"2022-04-22 13:15:42"
+213,3,"Green Transition",10,"Outputs","RO","Romania",21.42,NULL,"RO-10",1,"2022-04-22 13:15:42"
+222,3,"Green Transition",10,"Outputs","SI","Slovenia",66.09,NULL,"SI-10",3,"2022-04-22 13:15:42"
+231,3,"Green Transition",10,"Outputs","SK","Slovakia",60.73,NULL,"SK-10",3,"2022-04-22 13:15:42"
+240,3,"Green Transition",10,"Outputs","FI","Finland",74.47,NULL,"FI-10",3,"2022-04-22 13:15:42"
+249,3,"Green Transition",10,"Outputs","SE","Sweden",93.19,NULL,"SE-10",3,"2022-04-22 13:15:42"
+7,4,"SME Competitiveness",11,"Exports","EU27_2020","EU",31.74,NULL,"EU27_2020-11",1,"2022-04-22 13:15:41"
+16,4,"SME Competitiveness",11,"Exports","BE","Belgium",52.67,NULL,"BE-11",3,"2022-04-22 13:15:41"
+25,4,"SME Competitiveness",11,"Exports","BG","Bulgaria",54.60,NULL,"BG-11",3,"2022-04-22 13:15:41"
+34,4,"SME Competitiveness",11,"Exports","CZ","Czechia",27.51,NULL,"CZ-11",1,"2022-04-22 13:15:41"
+43,4,"SME Competitiveness",11,"Exports","DK","Denmark",46.41,NULL,"DK-11",2,"2022-04-22 13:15:41"
+52,4,"SME Competitiveness",11,"Exports","DE","Germany",41.23,NULL,"DE-11",2,"2022-04-22 13:15:41"
+61,4,"SME Competitiveness",11,"Exports","EE","Estonia",100.00,NULL,"EE-11",3,"2022-04-22 13:15:41"
+70,4,"SME Competitiveness",11,"Exports","IE","Ireland",27.89,NULL,"IE-11",1,"2022-04-22 13:15:41"
+79,4,"SME Competitiveness",11,"Exports","EL","Greece",20.24,NULL,"EL-11",1,"2022-04-22 13:15:41"
+88,4,"SME Competitiveness",11,"Exports","ES","Spain",28.68,NULL,"ES-11",1,"2022-04-22 13:15:41"
+97,4,"SME Competitiveness",11,"Exports","FR","France",14.22,NULL,"FR-11",1,"2022-04-22 13:15:41"
+106,4,"SME Competitiveness",11,"Exports","HR","Croatia",33.19,NULL,"HR-11",1,"2022-04-22 13:15:41"
+115,4,"SME Competitiveness",11,"Exports","IT","Italy",31.25,NULL,"IT-11",1,"2022-04-22 13:15:41"
+124,4,"SME Competitiveness",11,"Exports","CY","Cyprus",36.69,NULL,"CY-11",2,"2022-04-22 13:15:41"
+133,4,"SME Competitiveness",11,"Exports","LV","Latvia",75.48,NULL,"LV-11",3,"2022-04-22 13:15:42"
+142,4,"SME Competitiveness",11,"Exports","LT","Lithuania",58.62,NULL,"LT-11",3,"2022-04-22 13:15:42"
+151,4,"SME Competitiveness",11,"Exports","LU","Luxembourg",34.76,NULL,"LU-11",2,"2022-04-22 13:15:42"
+160,4,"SME Competitiveness",11,"Exports","HU","Hungary",43.93,NULL,"HU-11",2,"2022-04-22 13:15:42"
+169,4,"SME Competitiveness",11,"Exports","MT","Malta",28.47,NULL,"MT-11",1,"2022-04-22 13:15:42"
+178,4,"SME Competitiveness",11,"Exports","NL","Netherlands",68.72,NULL,"NL-11",3,"2022-04-22 13:15:42"
+187,4,"SME Competitiveness",11,"Exports","AT","Austria",56.58,NULL,"AT-11",3,"2022-04-22 13:15:42"
+196,4,"SME Competitiveness",11,"Exports","PL","Poland",35.66,NULL,"PL-11",2,"2022-04-22 13:15:42"
+205,4,"SME Competitiveness",11,"Exports","PT","Portugal",34.91,NULL,"PT-11",2,"2022-04-22 13:15:42"
+214,4,"SME Competitiveness",11,"Exports","RO","Romania",27.71,NULL,"RO-11",1,"2022-04-22 13:15:42"
+223,4,"SME Competitiveness",11,"Exports","SI","Slovenia",90.17,NULL,"SI-11",3,"2022-04-22 13:15:42"
+232,4,"SME Competitiveness",11,"Exports","SK","Slovakia",50.55,NULL,"SK-11",3,"2022-04-22 13:15:42"
+241,4,"SME Competitiveness",11,"Exports","FI","Finland",47.40,NULL,"FI-11",3,"2022-04-22 13:15:42"
+250,4,"SME Competitiveness",11,"Exports","SE","Sweden",39.79,NULL,"SE-11",2,"2022-04-22 13:15:42"
+8,4,"SME Competitiveness",12,"Productivity","EU27_2020","EU",30.09,NULL,"EU27_2020-12",2,"2022-04-22 13:15:41"
+17,4,"SME Competitiveness",12,"Productivity","BE","Belgium",55.46,NULL,"BE-12",3,"2022-04-22 13:15:41"
+26,4,"SME Competitiveness",12,"Productivity","BG","Bulgaria",10.00,NULL,"BG-12",1,"2022-04-22 13:15:41"
+35,4,"SME Competitiveness",12,"Productivity","CZ","Czechia",18.89,NULL,"CZ-12",2,"2022-04-22 13:15:41"
+44,4,"SME Competitiveness",12,"Productivity","DK","Denmark",100.00,NULL,"DK-12",3,"2022-04-22 13:15:41"
+53,4,"SME Competitiveness",12,"Productivity","DE","Germany",35.81,NULL,"DE-12",2,"2022-04-22 13:15:41"
+62,4,"SME Competitiveness",12,"Productivity","EE","Estonia",23.72,NULL,"EE-12",2,"2022-04-22 13:15:41"
+71,4,"SME Competitiveness",12,"Productivity","IE","Ireland",59.69,NULL,"IE-12",3,"2022-04-22 13:15:41"
+80,4,"SME Competitiveness",12,"Productivity","EL","Greece",10.82,NULL,"EL-12",1,"2022-04-22 13:15:41"
+89,4,"SME Competitiveness",12,"Productivity","ES","Spain",26.46,NULL,"ES-12",2,"2022-04-22 13:15:41"
+98,4,"SME Competitiveness",12,"Productivity","FR","France",40.19,NULL,"FR-12",2,"2022-04-22 13:15:41"
+107,4,"SME Competitiveness",12,"Productivity","HR","Croatia",15.29,NULL,"HR-12",1,"2022-04-22 13:15:41"
+116,4,"SME Competitiveness",12,"Productivity","IT","Italy",31.11,NULL,"IT-12",2,"2022-04-22 13:15:41"
+125,4,"SME Competitiveness",12,"Productivity","CY","Cyprus",39.98,NULL,"CY-12",2,"2022-04-22 13:15:41"
+134,4,"SME Competitiveness",12,"Productivity","LV","Latvia",14.19,NULL,"LV-12",1,"2022-04-22 13:15:42"
+143,4,"SME Competitiveness",12,"Productivity","LT","Lithuania",14.46,NULL,"LT-12",1,"2022-04-22 13:15:42"
+152,4,"SME Competitiveness",12,"Productivity","LU","Luxembourg",64.97,NULL,"LU-12",3,"2022-04-22 13:15:42"
+161,4,"SME Competitiveness",12,"Productivity","HU","Hungary",15.08,NULL,"HU-12",1,"2022-04-22 13:15:42"
+170,4,"SME Competitiveness",12,"Productivity","MT","Malta",50.13,NULL,"MT-12",3,"2022-04-22 13:15:42"
+179,4,"SME Competitiveness",12,"Productivity","NL","Netherlands",48.41,NULL,"NL-12",3,"2022-04-22 13:15:42"
+188,4,"SME Competitiveness",12,"Productivity","AT","Austria",NULL,NULL,"AT-12",0,"2022-04-22 13:15:42"
+197,4,"SME Competitiveness",12,"Productivity","PL","Poland",15.02,NULL,"PL-12",1,"2022-04-22 13:15:42"
+206,4,"SME Competitiveness",12,"Productivity","PT","Portugal",NULL,NULL,"PT-12",0,"2022-04-22 13:15:42"
+215,4,"SME Competitiveness",12,"Productivity","RO","Romania",12.64,NULL,"RO-12",1,"2022-04-22 13:15:42"
+224,4,"SME Competitiveness",12,"Productivity","SI","Slovenia",24.77,NULL,"SI-12",2,"2022-04-22 13:15:42"
+233,4,"SME Competitiveness",12,"Productivity","SK","Slovakia",14.19,NULL,"SK-12",1,"2022-04-22 13:15:42"
+242,4,"SME Competitiveness",12,"Productivity","FI","Finland",46.03,NULL,"FI-12",3,"2022-04-22 13:15:42"
+251,4,"SME Competitiveness",12,"Productivity","SE","Sweden",45.87,NULL,"SE-12",3,"2022-04-22 13:15:42"
+9,4,"SME Competitiveness",13,"Growth","EU27_2020","EU",59.25,NULL,"EU27_2020-13",1,"2022-04-22 13:15:41"
+18,4,"SME Competitiveness",13,"Growth","BE","Belgium",30.31,NULL,"BE-13",1,"2022-04-22 13:15:41"
+27,4,"SME Competitiveness",13,"Growth","BG","Bulgaria",61.79,NULL,"BG-13",2,"2022-04-22 13:15:41"
+36,4,"SME Competitiveness",13,"Growth","CZ","Czechia",49.76,NULL,"CZ-13",1,"2022-04-22 13:15:41"
+45,4,"SME Competitiveness",13,"Growth","DK","Denmark",43.71,NULL,"DK-13",1,"2022-04-22 13:15:41"
+54,4,"SME Competitiveness",13,"Growth","DE","Germany",46.77,NULL,"DE-13",1,"2022-04-22 13:15:41"
+63,4,"SME Competitiveness",13,"Growth","EE","Estonia",53.46,NULL,"EE-13",1,"2022-04-22 13:15:41"
+72,4,"SME Competitiveness",13,"Growth","IE","Ireland",86.95,NULL,"IE-13",3,"2022-04-22 13:15:41"
+81,4,"SME Competitiveness",13,"Growth","EL","Greece",100.00,NULL,"EL-13",3,"2022-04-22 13:15:41"
+90,4,"SME Competitiveness",13,"Growth","ES","Spain",77.55,NULL,"ES-13",3,"2022-04-22 13:15:41"
+99,4,"SME Competitiveness",13,"Growth","FR","France",47.52,NULL,"FR-13",1,"2022-04-22 13:15:41"
+108,4,"SME Competitiveness",13,"Growth","HR","Croatia",59.03,NULL,"HR-13",1,"2022-04-22 13:15:41"
+117,4,"SME Competitiveness",13,"Growth","IT","Italy",55.19,NULL,"IT-13",1,"2022-04-22 13:15:41"
+126,4,"SME Competitiveness",13,"Growth","CY","Cyprus",17.58,NULL,"CY-13",1,"2022-04-22 13:15:41"
+135,4,"SME Competitiveness",13,"Growth","LV","Latvia",47.66,NULL,"LV-13",1,"2022-04-22 13:15:42"
+144,4,"SME Competitiveness",13,"Growth","LT","Lithuania",57.96,NULL,"LT-13",1,"2022-04-22 13:15:42"
+153,4,"SME Competitiveness",13,"Growth","LU","Luxembourg",54.12,NULL,"LU-13",1,"2022-04-22 13:15:42"
+162,4,"SME Competitiveness",13,"Growth","HU","Hungary",69.08,NULL,"HU-13",2,"2022-04-22 13:15:42"
+171,4,"SME Competitiveness",13,"Growth","MT","Malta",79.34,NULL,"MT-13",3,"2022-04-22 13:15:42"
+180,4,"SME Competitiveness",13,"Growth","NL","Netherlands",81.77,NULL,"NL-13",3,"2022-04-22 13:15:42"
+189,4,"SME Competitiveness",13,"Growth","AT","Austria",34.28,NULL,"AT-13",1,"2022-04-22 13:15:42"
+198,4,"SME Competitiveness",13,"Growth","PL","Poland",65.83,NULL,"PL-13",2,"2022-04-22 13:15:42"
+207,4,"SME Competitiveness",13,"Growth","PT","Portugal",77.44,NULL,"PT-13",3,"2022-04-22 13:15:42"
+216,4,"SME Competitiveness",13,"Growth","RO","Romania",10.00,NULL,"RO-13",1,"2022-04-22 13:15:42"
+225,4,"SME Competitiveness",13,"Growth","SI","Slovenia",67.85,NULL,"SI-13",2,"2022-04-22 13:15:42"
+234,4,"SME Competitiveness",13,"Growth","SK","Slovakia",57.29,NULL,"SK-13",1,"2022-04-22 13:15:42"
+243,4,"SME Competitiveness",13,"Growth","FI","Finland",80.57,NULL,"FI-13",3,"2022-04-22 13:15:42"
+252,4,"SME Competitiveness",13,"Growth","SE","Sweden",63.03,NULL,"SE-13",2,"2022-04-22 13:15:42"
